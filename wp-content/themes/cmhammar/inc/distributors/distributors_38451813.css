@@ -1,0 +1,295 @@
+.distributors-container {
+    width: 100%;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+.distributors-controls {
+    margin-bottom: 15px;
+    padding: 15px;
+    background: #004470;
+    border-radius: 8px;
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.distributors-controls label {
+    font-weight: 600;
+    color: white;
+    margin-right: 5px;
+}
+
+.country-selector {
+    padding: 8px 12px;
+    border: 1px solid white;
+    border-radius: 6px;
+    background: white;
+    min-width: 200px;
+    font-size: 14px;
+    transition: border-color 0.2s ease;
+}
+
+.country-selector:focus {
+    outline: none;
+    border-color: #0092bb;
+    box-shadow: 0 0 0 2px rgba(0, 115, 170, 0.1);
+}
+
+.distributors-map {
+    min-height: 500px;
+    height: 500px !important;
+    width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.distributor-popup {
+    padding: 0 23px 10px;
+    max-width: 320px;
+    line-height: 1.5;
+}
+
+.distributor-popup h4 {
+    margin: 0 0 12px 0;
+    color: #3c3c3b;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.distributor-popup p {
+    margin: 8px 0;
+    font-size: 14px;
+    color: #555;
+}
+
+.distributor-popup strong {
+    color: #333;
+    font-weight: 600;
+}
+
+.distributor-popup a {
+    color: #004470;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.distributor-popup a:hover {
+    text-decoration: underline;
+}
+
+.distributor-popup a i {
+    margin-right: 7px;
+}
+
+/* Google Maps Info Window Styling */
+.gm-style-iw-ch {
+    padding: 0 !important;
+}
+
+.gm-style-iw-chr button {
+    height: 40px !important;
+}
+
+.gm-style-iw-c,
+.gm-style-iw-d {
+    padding: 0 !important;
+    overflow: hidden !important;
+}
+
+/* Distributors List Styling */
+.distributors-list {
+    margin-top: 15px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.distributors-list-header {
+    background: #004470;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.distributors-list-header h3 {
+    margin: 0;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.distributors-list-header .count {
+    font-size: 14px;
+    opacity: 0.9;
+    margin-top: 5px;
+}
+
+.distributors-list-content {
+    max-height: 600px;
+    overflow-y: auto;
+    border: 1px solid #e0e0e0;
+}
+
+.distributor-item {
+    padding: 20px;
+    border-bottom: 1px solid #f0f0f0;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: flex-start;
+    gap: 15px;
+}
+
+.distributor-item:last-child {
+    border-bottom: none;
+}
+
+.distributor-item:hover {
+    background-color: #f8f9fa;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.distributor-item.active {
+    background-color: #e3f2fd;
+    border-left: 4px solid #004470;
+}
+
+.distributor-info {
+    flex-grow: 1;
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+}
+
+.distributor-main-info {
+    flex: 1;
+    min-width: 0;
+}
+
+.distributor-info .editor-content {
+    flex: 1;
+    min-width: 0;
+}
+
+.distributor-info .editor-content a {
+    color: #004470;
+}
+
+.distributor-info h4 {
+    margin: 0 0 8px 0;
+    color: #004470;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.distributor-info .country {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 8px;
+    font-weight: 500;
+}
+
+.distributor-info .address {
+    color: #888;
+    font-size: 13px;
+    line-height: 1.4;
+}
+
+.distributor-actions {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.action-button {
+    padding: 6px 12px;
+    background: #004470;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+    text-decoration: none;
+    text-align: center;
+}
+
+.action-button:hover {
+    background: #0092bb;
+    color: white;
+    text-decoration: none;
+}
+
+.action-button.view-on-map {
+    background: #ffd600;
+    color: black;
+}
+
+.action-button.view-on-map:hover {
+    background: #333;
+    color: white;
+}
+
+/* Scrollbar styling */
+.distributors-list-content::-webkit-scrollbar {
+    width: 8px;
+}
+
+.distributors-list-content::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+.distributors-list-content::-webkit-scrollbar-thumb {
+    background: #004470;
+    border-radius: 4px;
+}
+
+.distributors-list-content::-webkit-scrollbar-thumb:hover {
+    background: #0092bb;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .distributors-controls {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    .country-selector {
+        width: 100%;
+    }
+
+    .distributors-map {
+        min-height: 400px;
+        height: 400px !important;
+    }
+    
+    .distributor-item {
+        flex-direction: column;
+        gap: 10px;
+    }
+    
+    .distributor-info {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .distributor-actions {
+        flex-direction: row;
+        justify-content: center;
+    }
+    
+    .distributors-list-content {
+        max-height: 500px;
+    }
+}
+
+@media (max-width: 480px) {
+    .distributor-popup {
+        padding: 0 18px 7px;
+    }
+}

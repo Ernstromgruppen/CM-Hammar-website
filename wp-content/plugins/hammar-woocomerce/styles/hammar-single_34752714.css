@@ -1,0 +1,70 @@
+.tag-blue {
+	background: #004470;
+	color: white;
+	padding: 5px;
+	border-radius: 3px 3px;
+	border-radius: 3px;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+	border-bottom-right-radius: 3px;
+	border-bottom-left-radius: 3px;
+}
+.woocommerce #content div.product div.images,
+.woocommerce div.product div.images,
+.woocommerce-page #content div.product div.images,
+.woocommerce-page div.product div.images {
+	width: 46%;
+}
+.container {
+	max-width: 1800px;
+	padding: 8px;
+}
+
+.woocommerce div.product {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+}
+
+.woocommerce #content div.product div.summary,
+.woocommerce div.product div.summary,
+.woocommerce-page #content div.product div.summary,
+.woocommerce-page div.product div.summary {
+	-webkit-box-flex: 0;
+	-ms-flex: 0 0 66.6666666667%;
+	flex: 0 0 66.6666666667%;
+	max-width: 66.6666666667%;
+	float: none;
+	width: auto;
+	padding-left: 40px;
+}
+.woocommerce #content div.product div.images,
+.woocommerce div.product div.images,
+.woocommerce-page #content div.product div.images,
+.woocommerce-page div.product div.images {
+	-webkit-box-flex: 0;
+	-ms-flex: 0 0 33.3333333333%;
+	flex: 0 0 33.3333333333%;
+	max-width: 33.3333333333%;
+	float: none;
+	width: auto;
+}
+
+@media (max-width: 580px) {
+	.woocommerce #content div.product div.summary,
+	.woocommerce div.product div.summary,
+	.woocommerce-page #content div.product div.summary,
+	.woocommerce-page div.product div.summary,
+	.woocommerce #content div.product div.images,
+	.woocommerce div.product div.images,
+	.woocommerce-page #content div.product div.images,
+	.woocommerce-page div.product div.images {
+		-webkit-box-flex: 0;
+		-ms-flex: 0 0 100%;
+		flex: 0 0 100%;
+		max-width: 100%;
+		padding-left: 0;
+	}
+}
