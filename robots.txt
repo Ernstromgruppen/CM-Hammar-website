@@ -1,4 +1,4 @@
-User-agent: *
+﻿User-agent: *
 Allow: /
 
 User-agent: GPTBot
@@ -13,7 +13,10 @@ Allow: /
 User-agent: GoogleOther
 Allow: /
 
-Sitemap: https://www.cmhammar.com/sitemap_index.xml
+User-agent: Googlebot
+Allow: /
 
-# AI-readable product data
+Sitemap: https://www.cmhammar.com/sitemap.xml
+
+# AI-readable product index
 # https://www.cmhammar.com/llms.txt
