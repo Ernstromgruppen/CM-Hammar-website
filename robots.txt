@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+Sitemap: https://www.cmhammar.com/sitemap_index.xml
+
+# AI-readable product data
+# https://www.cmhammar.com/llms.txt

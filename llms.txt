@@ -1,0 +1,657 @@
+﻿# CM Hammar
+
+> Better Solutions for Safety at Sea. CM Hammar AB is a Swedish manufacturer of marine life-saving appliances: hydrostatic release units (HRU), remote release systems (RRS), and lifejacket inflators certified to SOLAS, MED, USCG, DNV, and MCA standards.
+
+## About
+
+CM Hammar has been manufacturing safety equipment for commercial and recreational vessels for over 30 years. All products comply with SOLAS (Safety of Life at Sea) regulations and carry type approvals from recognized classification societies including Bureau Veritas, DNV, MCA, and Lloyd's Register.
+
+- Website: https://www.cmhammar.com
+- Catalogue: https://www.cmhammar.com/catalogue/
+- Approvals: https://www.cmhammar.com/approvals/
+- Downloads: https://www.cmhammar.com/downloads/
+- Where to Buy: https://www.cmhammar.com/distributors/
+- Contact: https://www.cmhammar.com/contact-us/
+
+## Product Categories
+
+- **H20 Release Units (HC-series)**: Hydrostatic release units for liferafts, EPIRBs, and MES systems. SOLAS and MED approved.
+- **Remote Release Systems (HE-series)**: Electric remote release control, input, and release units (ERRS/MRRS). For bridge-operated release of liferafts.
+- **Lifejacket Inflators (HM-series)**: Automatic (MA1-EC) and manual inflator mechanisms. Approved for SOLAS lifejackets.
+- **Special Applications (HR-series)**: Polar Box cold-weather HRU housings, ATEX/EX rated equipment, and inspection tools.
+- **Inspection Tools (TR-series)**: Testing and inspection equipment for HRU servicing.
+
+## Products
+
+### [HC-0200](https://www.cmhammar.com/catalogue/hc-0200/)
+H20/MRU REMOTE Dual Assembly (YELLOW - GREEN)
+
+  - **Approvals**: EC approved
+  - **Product Specification**: RFD MES type, EC approved
+  - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN
+  - **Release Depth**: 1,5 - 4 m
+  - **Weight**: 0.31kg
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0
+
+### [HC-0207](https://www.cmhammar.com/catalogue/hc-0207/)
+H20/MRU REMOTE Dual Assembly (YELLOW - GREEN)
+
+  - **Approvals**: EC approved
+  - **Product Specification**: DSB type/EC label
+  - **Breaking Strength**: White rope sling: minimum 15 kN
+  - **Release Depth**: 1,5 - 4 m
+  - **Weight**: 0.6kg
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0
+
+### [HC-0208](https://www.cmhammar.com/catalogue/hc-0208/)
+H20/MRU REMOTE Dual Assembly (YELLOW - GREEN)
+
+  - **Product Specification**: Heavy Load Type
+  - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN
+  - **Release Depth**: 1,5 - 4 m
+  - **Weight**: 0.6kg
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0
+
+### [HC-0213](https://www.cmhammar.com/catalogue/hc-0213/)
+H20/MRU REMOTE Dual Assembly (YELLOW-YELLOW-GREEN)
+
+  - **Approvals**: EC approved
+  - **Product Specification**: Hammar H20 type for raft in MES, EC  approved
+  - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN
+  - **Release Depth**: 1,5 - 4 m
+  - **Weight**: 0.735kg
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0
+
+### [HC-0214](https://www.cmhammar.com/catalogue/hc-0214/)
+H20/MRU REMOTE Dual Assembly (YELLOW - GREEN)
+
+  - **Approvals**: EC approved
+  - **Product Specification**: Hammar H20 type for raft, EC approved
+  - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN
+  - **Release Depth**: 1,5 - 4 m
+  - **Weight**: 0.61kg
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0
+
+### [HC-0215](https://www.cmhammar.com/catalogue/hc-0215/)
+H20 Dual Assembly (YELLOW)
+
+  - **Approvals**: EC approved
+  - **Product Specification**: FDB type, EC approved
+  - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN
+  - **Release Depth**: 1,5 - 4 m
+  - **Weight**: 0.505kg
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+
+### [HC-0219](https://www.cmhammar.com/catalogue/hc-0219/)
+H20/MRU REMOTE Dual Assembly (GREEN-YELLOW-GREEN)
+
+  - **Product Specification**: Hammar type, release depth 4 m
+  - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN
+  - **Release Depth**: approx. 4 m
+  - **Weight**: 0.735kg
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0
+
+### [HC-0220](https://www.cmhammar.com/catalogue/hc-0220/)
+H20/MRU REMOTE Dual Assembly (GREEN - GREEN)
+
+  - **Product Specification**: One rope sling of  570mm, increased release depth (4 m)
+  - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN
+  - **Release Depth**: approx. 4 m
+  - **Weight**: 0.284kg
+  Certifications:
+    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0
+
+### [HC-0225](https://www.cmhammar.com/catalogue/hc-0225/)
+H20/MRU REMOTE Dual Assembly (YELLOW - GREEN)
+
+  - **Approvals**: EC approved
+  - **Product Specification**: Double loop rope sling, RFD MES type
+  - **Breaking Strength**: White rope sling: minimum 15 kN
+  - **Release Depth**: 1,5 - 4 m
+  - **Weight**: 0.284kg
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0
+
+### [HC-0308](https://www.cmhammar.com/catalogue/hc-0308/)
+H20RX/MRU Dual Assembly (YELLOW/GREEN),
+
+  - **Product Specification**: Heavy load type
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+
+### [HC-0318](https://www.cmhammar.com/catalogue/hc-0318/)
+H20 RX/MRU RX REMOTE Dual Assembly (Y-Y-G)
+
+  - **Approvals**: USCG/UKCA/EC approved
+  - **Product Specification**: EC approved, extended life 30 months
+  - **Breaking Strength**: White rope sling: 15kN; Weak link: 2,2kN +/- 0,4kN
+  - **Release Depth**: 1.5-4m
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+
+### [HC-0319](https://www.cmhammar.com/catalogue/hc-0319/)
+H20 RX/MRU RX REMOTE Dual Assembly (YELLOW-GREEN)
+
+  - **Approvals**: USCG/UKCA/EC approved
+  - **Product Specification**: EC approved, extended life 30 months
+  - **Breaking Strength**: White rope sling: 15kN; Weak link: 2,2kN +/- 0,4kN
+  - **Release Depth**: 1.5-4m
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+
+### [HC-0323](https://www.cmhammar.com/catalogue/hc-0323/)
+H20 RX/MRU RX Dual Assembly (YELLOW - GREEN)
+
+  - **Approvals**: EC, USCG, UK approved
+  - **Product Specification**: Single loop
+  - **Breaking Strength**: 15kN
+  - **Release Depth**: 1,5-4m
+  - **Weight**: 0,3kg
+
+### [HC-0324](https://www.cmhammar.com/catalogue/hc-0324/)
+H20/MRU RX REMOTE Dual Assembly (YELLOW - GREEN)
+
+  - **Approvals**: EC, USCG, UK
+  - **Product Specification**: No Weak Link, EC/USCG/UK approved
+  - **Breaking Strength**: 15kN
+  - **Release Depth**: 1,5-4 m
+
+### [HC-0325](https://www.cmhammar.com/catalogue/hc-0325/)
+H20 RX HRU Dual Assembly (GREEN-GREEN)
+
+  - **Product Specification**: 4m Release Depth
+  - **Breaking Strength**: White rope sling: 15kN
+  - **Release Depth**: ~4m
+  - **Weight**: 0,274kg
+
+### [HC-0330](https://www.cmhammar.com/catalogue/hc-0330/)
+H20/MRU RX REMOTE Dual Assembly (GREEN - GREEN)
+
+  - **Product Specification**: One rope sling of  570mm, increased release depth (4 m)
+  - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN
+  - **Release Depth**: approx. 4 m
+  - **Weight**: 0.284kg
+
+### [HC-0335](https://www.cmhammar.com/catalogue/hc-0335/)
+H20/MRU RX REMOTE  Dual Assembly (YELLLOW - GREEN)
+
+  - **Approvals**: EC
+  - **Product Specification**: Double rope sling  RFD MES type
+  - **Breaking Strength**: White rope sling: 15kN
+  - **Release Depth**: 1,5 - 4 m
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0
+
+### [HC-0340](https://www.cmhammar.com/catalogue/hc-0340/)
+H20 HRU RX Dual Assembly (YELLOW-YELLOW)
+
+  - **Product Specification**: Single Loop
+  - **Release Depth**: 1,5-4m
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+
+### [HC-0402](https://www.cmhammar.com/catalogue/hc-0402/)
+H20/ERU REMOTE Dual Assembly (YELLOW - RED)
+
+  - **Product Specification**: Electric and Water Actviation
+  - **Breaking Strength**: White rope sling: 15kN , Weak link: 2,2 +/- 0,4 kN
+  - **Release Depth**: 1,5 - 4 m
+  - **Weight**: 0.65kg
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+
+### [HC-0403](https://www.cmhammar.com/catalogue/hc-0403/)
+H20/ERU REMOTE Dual Assembly (YELLOW - RED/YELLOW)
+
+  - **Product Specification**: Hammar H20 type, ERU - Electric/water activation
+  - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN
+  - **Release Depth**: 1,5 - 4 m
+  - **Weight**: 0.65kg
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+
+### [HC-0407](https://www.cmhammar.com/catalogue/hc-0407/)
+ERU/ERU REMOTE Dual Assembly (RED - RED/YELLOW)
+
+  - **Product Specification**: Double ERU, Electric and Electric/water activation
+  - **Breaking Strength**: White rope sling: minimum 15 kN
+  - **Release Depth**: 1,5 - 4 m
+  - **Weight**: 0.6kg
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+
+### [HC-0412](https://www.cmhammar.com/catalogue/hc-0412/)
+ERU/ERU REMOTE Dual Assembly (RED/GREEN - RED/GREE
+
+  - **Product Specification**: Double ERU, 2 x Electric/water activation, depth (4 m), with cable connector
+  - **Breaking Strength**: White rope sling: minimum 15 kN
+  - **Release Depth**: approx. 4 m
+  - **Weight**: 0.6kg
+
+### [HC-0413](https://www.cmhammar.com/catalogue/hc-0413/)
+HAMMAR single ERU, 1,5-4 mtr
+
+  - **Product Specification**: Electric/water activation
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+
+### [HC-0431](https://www.cmhammar.com/catalogue/hc-0431/)
+ERU/ERU RX REMOTE Dual Assembly (R/Y - R/Y)
+
+  - **Approvals**: EC, USCG, UK
+  - **Product Specification**: El/water activated, 1.8m cable w Connector, 160mm sling
+  - **Breaking Strength**: 15kN
+  - **Release Depth**: 1,5-4 m
+  - **Weight**: 0,55kg
+
+### [HC-0432](https://www.cmhammar.com/catalogue/hc-0432/)
+ERU/ERU RX REMOTE Dual Assembly (R/G - R/G)
+
+  - **Product Specification**: With connector, Double ERU
+
+### [HC-0433](https://www.cmhammar.com/catalogue/hc-0433/)
+H20/ERU RX Dual Assembly (YELLOW - RED/YELLOW)
+
+  - **Product Specification**: Hammar H20 type, ERU - Electric/water activation
+  - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN
+  - **Release Depth**: 1,5 - 4 m
+  - **Weight**: 0.65kg
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+
+### [HC-0434](https://www.cmhammar.com/catalogue/hc-0434/)
+H20 RX/ERU RX REMOTE Dual Assembly (YELLOW - RED)
+
+  - **Approvals**: EC
+  - **Product Specification**: 30 months, Electric and Water Actviation
+  - **Breaking Strength**: White rope sling: 15kN , Weak link: 2,2 +/- 0,4 kN
+  - **Release Depth**: 1,5-4m
+  - **Weight**: 0,625kg
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+
+### [HC-0440](https://www.cmhammar.com/catalogue/hc-0440/)
+H20/ERU REMOTE Dual Assembly (GREEN - RED/GREEN)
+
+  - **Product Specification**: One rope sling of  570mm, increased release depth (4 m)
+  - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN
+  - **Release Depth**: approx. 4 m
+  - **Weight**: 0.284kg
+  Certifications:
+    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0
+
+### [HC-0441](https://www.cmhammar.com/catalogue/hc-0441/)
+H20/ERU RX REMOTE Dual Assembly (G - R/G)
+
+  - **Product Specification**: One rope sling of  570 mm, increased release depth (4 m)
+  Certifications:
+    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0
+
+### [HE-0021](https://www.cmhammar.com/catalogue/he-0021/)
+Plastic bolt, standard type (98mm x M8)
+
+  - **Product Specification**: Including 2 washers
+  - **Weight**: 0.008kg
+
+### [HE-0022](https://www.cmhammar.com/catalogue/he-0022/)
+Plastic bolt, TRON FB3 (50mm x M8)
+
+  - **Product Specification**: Including 2 washers
+  - **Weight**: 0.006kg
+
+### [HE-0023](https://www.cmhammar.com/catalogue/he-0023/)
+Plastic bolt, TRON FB-4 and FBH-4 (86,5mm x M8)
+
+  - **Product Specification**: Including 2 washers
+  - **Weight**: 0.007kg
+
+### [HE-0024](https://www.cmhammar.com/catalogue/he-0024/)
+Plastic bolt, (56mm x M8)
+
+  - **Product Specification**: Including 2 washers
+  - **Weight**: 0.006kg
+
+### [HE-0028](https://www.cmhammar.com/catalogue/he-0028/)
+Plastic bolt, ACR RLB32 (120mm)
+
+  - **Product Specification**: Including split pin, stainless steel washer and date label
+  - **Weight**: 0.05kg
+
+### [HE-0030](https://www.cmhammar.com/catalogue/he-0030/)
+Plastic bolt,  (110mm x M8)
+
+  - **Product Specification**: Including 2 washers
+  - **Weight**: 0.01kg
+
+### [HE-0031](https://www.cmhammar.com/catalogue/he-0031/)
+Plastic bolt, long model (110mm x M8)
+
+  - **Product Specification**: Including 2 washers
+  - **Weight**: 0.01kg
+
+### [HE-0041](https://www.cmhammar.com/catalogue/he-0041/)
+Washer to Plastic bolt
+
+  - **Product Specification**: EPDM
+
+### [HE-0045](https://www.cmhammar.com/catalogue/he-0045/)
+Nut to Plastic bolt (M8)
+
+  - **Product Specification**: Stainless Steel
+  - **Weight**: 0.006kg
+
+### [HE-0100](https://www.cmhammar.com/catalogue/he-0100/)
+H20E for EPIRBs
+
+  - **Product Specification**: USCG-approved
+  - **Weight**: 0.12kg
+  Certifications:
+    - CM Hammar AB – Recognition for BV mode II scheme – Bureau Veritas
+    - H20 E – H20 E ERU – Type Approval – Bureau Veritas – 07494/F0
+    - H20 E – USCG – US – 160.162/4/0 160.062/6/0
+
+### [HE-0102](https://www.cmhammar.com/catalogue/he-0102/)
+H20E for EPIRBs
+
+  - **Product Specification**: USCG approved
+  - **Weight**: 0.12kg
+  Certifications:
+    - CM Hammar AB – Recognition for BV mode II scheme – Bureau Veritas
+    - H20 E – H20 E ERU – Type Approval – Bureau Veritas – 07494/F0
+    - H20 E – USCG – US – 160.162/4/0 160.062/6/0
+
+### [HE-0104](https://www.cmhammar.com/catalogue/he-0104/)
+H20E for EPIRBs
+
+  - **Product Specification**: France approved
+  - **Weight**: 0.12kg
+  Certifications:
+    - CM Hammar AB – Recognition for BV mode II scheme – Bureau Veritas
+    - H20 E – H20 E ERU – Type Approval – Bureau Veritas – 07494/F0
+    - H20 E – USCG – US – 160.162/4/0 160.062/6/0
+
+### [HE-0106](https://www.cmhammar.com/catalogue/he-0106/)
+H20E for EPIRBs
+
+  - **Product Specification**: SeeBeg approved
+  - **Weight**: 0.12kg
+  Certifications:
+    - CM Hammar AB – Recognition for BV mode II scheme – Bureau Veritas
+    - H20 E – H20 E ERU – Type Approval – Bureau Veritas – 07494/F0
+    - H20 E – USCG – US – 160.162/4/0 160.062/6/0
+
+### [HE-0107](https://www.cmhammar.com/catalogue/he-0107/)
+H20E for EPIRBs
+
+  - **Product Specification**: Spain approved
+  - **Weight**: 0.12kg
+  Certifications:
+    - CM Hammar AB – Recognition for BV mode II scheme – Bureau Veritas
+    - H20 E – H20 E ERU – Type Approval – Bureau Veritas – 07494/F0
+    - H20 E – USCG – US – 160.162/4/0 160.062/6/0
+
+### [HE-0111](https://www.cmhammar.com/catalogue/he-0111/)
+H20E for EPIRBs
+
+  - **Product Specification**: Jotron OEM label
+  - **Weight**: 0.12kg
+  Certifications:
+    - CM Hammar AB – Recognition for BV mode II scheme – Bureau Veritas
+    - H20 E – H20 E ERU – Type Approval – Bureau Veritas – 07494/F0
+    - H20 E – USCG – US – 160.162/4/0 160.062/6/0
+
+### [HE-0221](https://www.cmhammar.com/catalogue/he-0221/)
+H20E for EPIRBs, Rearming Kit, Standard
+
+  - **Product Specification**: USCG approved. Including standard bolt, nut and 2 washers
+  Certifications:
+    - CM Hammar AB – Recognition for BV mode II scheme – Bureau Veritas
+    - H20 E – H20 E ERU – Type Approval – Bureau Veritas – 07494/F0
+    - H20 E – USCG – US – 160.162/4/0 160.062/6/0
+
+### [HM-0300](https://www.cmhammar.com/catalogue/hm-0300/)
+H20 MRU - Manual Remote Unit (GREEN)
+
+  - **Product Specification**: Manual remote unit for MRRS
+  - **Breaking Strength**: White rope sling: minimum 15 kN
+  - **Release Depth**: approx. 4 m
+  - **Weight**: 0.25kg
+  Certifications:
+    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0
+
+### [HM-0350](https://www.cmhammar.com/catalogue/hm-0350/)
+H20RX MRU - Manual Remote Unit (GREEN)
+
+  - **Product Specification**: Manual remote unit for MRRS, extended life 30 months
+  - **Release Depth**: Approx. 4 metres
+  - **Weight**: 0,25kgkg
+  Certifications:
+    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0
+
+### [HM-0400](https://www.cmhammar.com/catalogue/hm-0400/)
+H20 ERU - Electric Remote Unit (RED)
+
+  - **Product Specification**: Electric activation only
+  - **Breaking Strength**: White rope sling: minimum 15 kN
+  - **Weight**: 0.29kg
+
+### [HM-0403](https://www.cmhammar.com/catalogue/hm-0403/)
+H20 ERU - Electric Remote Unit (RED/BLUE)
+
+  - **Product Specification**: Electric/water activation 6 m depth
+  - **Breaking Strength**: White rope sling: minimum 15 kN
+  - **Release Depth**: approx. 6 m
+  - **Weight**: 0.3kg
+
+### [HM-0405](https://www.cmhammar.com/catalogue/hm-0405/)
+H20 ERU - Electric Remote Unit (RED/YELLOW)
+
+  - **Product Specification**: Electric/water activation, release depth 1,5 - 4,0 metres
+  - **Breaking Strength**: White rope sling: minimum 15 kN
+  - **Release Depth**: 1,5 - 4 m
+  - **Weight**: 0.3kg
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+
+### [HM-0406](https://www.cmhammar.com/catalogue/hm-0406/)
+Replacement kit Lifebuoy system Mk I
+
+  - **Product Specification**: ERU electric/water activation
+  - **Breaking Strength**: Cord sling: minimum 6 kN
+  - **Release Depth**: 1,5 - 4 m
+  - **Weight**: 0.5kg
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+
+### [HM-0407](https://www.cmhammar.com/catalogue/hm-0407/)
+H20 ERU - Electric Remote Unit
+
+  - **Product Specification**: Electric/water activation with long rope sling for Polar box
+  - **Breaking Strength**: White rope sling: minimum 15 kN
+  - **Release Depth**: 1,5 - 4,0 metres
+  - **Weight**: 0,3kg
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+
+### [HM-0408](https://www.cmhammar.com/catalogue/hm-0408/)
+H20 ERU - Electric Remote Unit (RED/GREEN)
+
+  - **Product Specification**: Electric/water activation 4 m depth
+  - **Breaking Strength**: White rope sling: minimum 15 kN
+  - **Release Depth**: approx. 4 m
+  - **Weight**: 0.29kg
+
+### [HM-0409](https://www.cmhammar.com/catalogue/hm-0409/)
+H20 ERU - Electric Remote Unit, (RED/YELLOW)
+
+  - **Product Specification**: For EPIRB or Lifebuoy Release, electric/water activation
+  - **Release Depth**: 1,5 - 4 metres
+  - **Weight**: 0.28kg
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+
+### [HM-0411](https://www.cmhammar.com/catalogue/hm-0411/)
+H20 ERU RX -  Electric Remote Unit, (RED/YELLOW)
+
+  - **Product Specification**: ERU 1,8m cable with male connector, Electric/Water activation, extended life 30 months
+  - **Release Depth**: 1,5 - 4,0 metres
+  - **Weight**: 0,29kg
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+
+### [HM-0412](https://www.cmhammar.com/catalogue/hm-0412/)
+H20 ERU - Electric Remote Unit (RED/YELLOW)
+
+  - **Approvals**: EC approval
+  - **Product Specification**: 2,3 metre cable with male connector, Electric/Water activation
+  - **Release Depth**: 1,5-4 m
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+
+### [HM-0414](https://www.cmhammar.com/catalogue/hm-0414/)
+H20 ERU Standard SOLAS model (RED/YELLOW)
+
+  - **Approvals**: EC / USCG
+  - **Product Specification**: EC / USCG approved
+  - **Breaking Strength**: White Rope Sling: 15kN Weak Link 2,2 (+/- 0,4) kN According to SOLAS Regulation
+  - **Release Depth**: 1.5-4m
+  - **Weight**: 0.35kg
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+
+### [HM-0461](https://www.cmhammar.com/catalogue/hm-0461/)
+ERRS Control Box  LAD
+
+  - **Product Specification**: List Angle Detection system
+  - **Backup Battery**: Up to 12 hours, Li-battery
+  - **Dimensions**: 124x184x100
+  - **Inputs**: 1
+  - **Outputs**: 2
+  - **Transport**: Dangerous Goods - extra cost for transportation will be added
+  - **Weight**: 2.05kg
+
+### [HM-0710](https://www.cmhammar.com/catalogue/hm-0710/)
+Control Panel 2, with Back-Up Battery
+
+  - **Product Specification**: Incl. full set of cable glands and Ground Connection Device
+  - **Backup Battery**: Up to 20 h, rechargable
+  - **Dimensions**: 125x122x83,5 mm
+  - **Inputs**: 2 + 4
+  - **Outputs**: 10 + 2
+  - **Weight**: 2.62kg
+  Certifications:
+    - ERRS CP2 – USCG Letter of Acceptance – US -16714/160.062
+
+### [HM-0725](https://www.cmhammar.com/catalogue/hm-0725/)
+Rechargeable Battery Pack
+
+  - **Product Specification**: for Control Panel 2
+  - **Weight**: 0,3kg
+
+### [HM-0807](https://www.cmhammar.com/catalogue/hm-0807/)
+H20 ERU EX - Electric Remote Unit  (RED/YELLOW)
+
+  - **Approvals**: IECEX and ATEX approved, EC approved
+  - **Product Specification**: Electric/water activation, with long rope sling for Polar Box
+  - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN according to SOLAS regulations
+  - **Release Depth**: 1,5-4 m
+  - **Weight**: 0,3kg
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+    - H20 ERU EX – IECEx – EPS 18.0038X
+
+### [HR-0100](https://www.cmhammar.com/catalogue/hr-0100/)
+H20 HRU standard SOLAS model (YELLOW)
+
+  - **Approvals**: UKCA/EC approved
+  - **Product Specification**: UKCA/EC approved
+  - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN according to SOLAS regulations
+  - **Release Depth**: 1,5 - 4 m
+  - **Weight**: 0.220kg
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+    - H20 R – CSS China – GB23PT00001
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+
+### [HR-0102](https://www.cmhammar.com/catalogue/hr-0102/)
+H20 HRU standard SOLAS model (YELLOW)
+
+  - **Approvals**: USCG/UKCA/EC approved
+  - **Product Specification**: USCG/UKCA/EC approved
+  - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN according to SOLAS regulations
+  - **Release Depth**: 1,5 - 4 m
+  - **Weight**: 0.220kg
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+    - H20 R – CSS China – GB23PT00001
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+
+### [HR-0200](https://www.cmhammar.com/catalogue/hr-0200/)
+H20 Small Raft Model (DARK GREEN)
+
+  - **Approvals**: BV Type Approved, USCG Approved
+  - **Product Specification**: 4-12 persons rafts outside SOLAS regulation
+  - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link 1,2 +/- 0,4 kN
+  - **Release Depth**: 1,5 - 4 m
+  - **Weight**: 0.28kg
+  Certifications:
+    - CM Hammar AB – Recognition for BV mode II scheme – Bureau Veritas
+    - H20 Small Raft – USCG – US – 160.062/14/0
+    - H20 Small Raft – Type Approval – Bureau Veritas – 18550/D0
+
+### [HR-0500](https://www.cmhammar.com/catalogue/hr-0500/)
+Easy Release
+
+  - **Product Specification**: Manual Release Hook, stainless steel, max working load 15 kN
+  - **Weight**: 0.2kg
+
+### [HR-0501](https://www.cmhammar.com/catalogue/hr-0501/)
+Safety Pin
+
+  - **Product Specification**: to Easy Release and LIfeBuoy Release System
+  - **Weight**: 0.025kg
+
+### [TR-0001](https://www.cmhammar.com/catalogue/tr-0001/)
+Senhouse Sliphook
+
+  - **Product Specification**: Stainless steel, 195 mm long
+  - **Breaking Strength**: 17 kN +/-10%
+  - **Weight**: 0.2kg
