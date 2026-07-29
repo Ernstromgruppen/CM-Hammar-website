@@ -1,4 +1,4 @@
-﻿# CM Hammar
+# CM Hammar
 
 > Better Solutions for Safety at Sea. CM Hammar AB is a Swedish manufacturer of marine life-saving appliances: hydrostatic release units (HRU), remote release systems (RRS), and lifejacket inflators certified to SOLAS, MED, USCG, DNV, and MCA standards.
 
@@ -31,10 +31,21 @@ H20/MRU REMOTE Dual Assembly (YELLOW - GREEN)
   - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN
   - **Release Depth**: 1,5 - 4 m
   - **Weight**: 0.31kg
+  - **Activation Depth**: approx. 4 meters
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | ROPE SLING: Polyester 1:1, parallel core | TUBING: Polyamide | PLUG-IN NIPPLE: Stainless steel
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | TUBING: Black | PLUG-IN NIPPLE: Stainless steel
+  - **Breaking Load**: ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: Chapter 1.2 General requirements for life-saving appliances of | the LSA Code | IMO Resolution MSC.48(66) as amended by MSC.207(81),
+  - **Certificate Valid Until**: 2029-11-20
   Certifications:
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
-    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0 – 24437/C0
 
 ### [HC-0207](https://www.cmhammar.com/catalogue/hc-0207/)
 H20/MRU REMOTE Dual Assembly (YELLOW - GREEN)
@@ -44,10 +55,21 @@ H20/MRU REMOTE Dual Assembly (YELLOW - GREEN)
   - **Breaking Strength**: White rope sling: minimum 15 kN
   - **Release Depth**: 1,5 - 4 m
   - **Weight**: 0.6kg
+  - **Activation Depth**: approx. 4 meters
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | ROPE SLING: Polyester 1:1, parallel core | TUBING: Polyamide | PLUG-IN NIPPLE: Stainless steel
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | TUBING: Black | PLUG-IN NIPPLE: Stainless steel
+  - **Breaking Load**: ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: Chapter 1.2 General requirements for life-saving appliances of | the LSA Code | IMO Resolution MSC.48(66) as amended by MSC.207(81),
+  - **Certificate Valid Until**: 2029-11-20
   Certifications:
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
-    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0 – 24437/C0
 
 ### [HC-0208](https://www.cmhammar.com/catalogue/hc-0208/)
 H20/MRU REMOTE Dual Assembly (YELLOW - GREEN)
@@ -56,10 +78,21 @@ H20/MRU REMOTE Dual Assembly (YELLOW - GREEN)
   - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN
   - **Release Depth**: 1,5 - 4 m
   - **Weight**: 0.6kg
+  - **Activation Depth**: approx. 4 meters
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | ROPE SLING: Polyester 1:1, parallel core | TUBING: Polyamide | PLUG-IN NIPPLE: Stainless steel
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | TUBING: Black | PLUG-IN NIPPLE: Stainless steel
+  - **Breaking Load**: ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: Chapter 1.2 General requirements for life-saving appliances of | the LSA Code | IMO Resolution MSC.48(66) as amended by MSC.207(81),
+  - **Certificate Valid Until**: 2029-11-20
   Certifications:
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
-    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0 – 24437/C0
 
 ### [HC-0213](https://www.cmhammar.com/catalogue/hc-0213/)
 H20/MRU REMOTE Dual Assembly (YELLOW-YELLOW-GREEN)
@@ -69,10 +102,21 @@ H20/MRU REMOTE Dual Assembly (YELLOW-YELLOW-GREEN)
   - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN
   - **Release Depth**: 1,5 - 4 m
   - **Weight**: 0.735kg
+  - **Activation Depth**: approx. 4 meters
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | ROPE SLING: Polyester 1:1, parallel core | TUBING: Polyamide | PLUG-IN NIPPLE: Stainless steel
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | TUBING: Black | PLUG-IN NIPPLE: Stainless steel
+  - **Breaking Load**: ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: Chapter 1.2 General requirements for life-saving appliances of | the LSA Code | IMO Resolution MSC.48(66) as amended by MSC.207(81),
+  - **Certificate Valid Until**: 2029-11-20
   Certifications:
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
-    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0 – 24437/C0
 
 ### [HC-0214](https://www.cmhammar.com/catalogue/hc-0214/)
 H20/MRU REMOTE Dual Assembly (YELLOW - GREEN)
@@ -82,10 +126,21 @@ H20/MRU REMOTE Dual Assembly (YELLOW - GREEN)
   - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN
   - **Release Depth**: 1,5 - 4 m
   - **Weight**: 0.61kg
+  - **Activation Depth**: approx. 4 meters
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | ROPE SLING: Polyester 1:1, parallel core | TUBING: Polyamide | PLUG-IN NIPPLE: Stainless steel
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | TUBING: Black | PLUG-IN NIPPLE: Stainless steel
+  - **Breaking Load**: ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: Chapter 1.2 General requirements for life-saving appliances of | the LSA Code | IMO Resolution MSC.48(66) as amended by MSC.207(81),
+  - **Certificate Valid Until**: 2029-11-20
   Certifications:
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
-    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0 – 24437/C0
 
 ### [HC-0215](https://www.cmhammar.com/catalogue/hc-0215/)
 H20 Dual Assembly (YELLOW)
@@ -95,9 +150,15 @@ H20 Dual Assembly (YELLOW)
   - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN
   - **Release Depth**: 1,5 - 4 m
   - **Weight**: 0.505kg
+  - **Activation Depth**: 1.5 - 4.0 metres
+  - **Service Life**: 2 years
+  - **Operating Temperature**: -30 to +65°C
+  - **Breaking Load**: strong rope: minimum 15 kN, weak link: 2.2 ± 0.4 kN
+  - **Approved Standards**: SOLAS 74 Convention | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-11-20
   Certifications:
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
 
 ### [HC-0219](https://www.cmhammar.com/catalogue/hc-0219/)
 H20/MRU REMOTE Dual Assembly (GREEN-YELLOW-GREEN)
@@ -106,9 +167,20 @@ H20/MRU REMOTE Dual Assembly (GREEN-YELLOW-GREEN)
   - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN
   - **Release Depth**: approx. 4 m
   - **Weight**: 0.735kg
+  - **Activation Depth**: approx. 4 meters
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | ROPE SLING: Polyester 1:1, parallel core | TUBING: Polyamide | PLUG-IN NIPPLE: Stainless steel
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | TUBING: Black | PLUG-IN NIPPLE: Stainless steel
+  - **Breaking Load**: ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: Chapter 1.2 General requirements for life-saving appliances of | the LSA Code | IMO Resolution MSC.48(66) as amended by MSC.207(81),
+  - **Certificate Valid Until**: 2029-01-24
   Certifications:
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
-    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0 – 24437/C0
 
 ### [HC-0220](https://www.cmhammar.com/catalogue/hc-0220/)
 H20/MRU REMOTE Dual Assembly (GREEN - GREEN)
@@ -117,8 +189,19 @@ H20/MRU REMOTE Dual Assembly (GREEN - GREEN)
   - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN
   - **Release Depth**: approx. 4 m
   - **Weight**: 0.284kg
+  - **Activation Depth**: approx. 4 meters
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | ROPE SLING: Polyester 1:1, parallel core | TUBING: Polyamide | PLUG-IN NIPPLE: Stainless steel
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | TUBING: Black | PLUG-IN NIPPLE: Stainless steel
+  - **Breaking Load**: ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: Chapter 1.2 General requirements for life-saving appliances of | the LSA Code | IMO Resolution MSC.48(66) as amended by MSC.207(81),
+  - **Certificate Valid Until**: 2027-06-07
   Certifications:
-    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0
+    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0 – 24437/C0
 
 ### [HC-0225](https://www.cmhammar.com/catalogue/hc-0225/)
 H20/MRU REMOTE Dual Assembly (YELLOW - GREEN)
@@ -128,18 +211,40 @@ H20/MRU REMOTE Dual Assembly (YELLOW - GREEN)
   - **Breaking Strength**: White rope sling: minimum 15 kN
   - **Release Depth**: 1,5 - 4 m
   - **Weight**: 0.284kg
+  - **Activation Depth**: approx. 4 meters
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | ROPE SLING: Polyester 1:1, parallel core | TUBING: Polyamide | PLUG-IN NIPPLE: Stainless steel
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | TUBING: Black | PLUG-IN NIPPLE: Stainless steel
+  - **Breaking Load**: ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: Chapter 1.2 General requirements for life-saving appliances of | the LSA Code | IMO Resolution MSC.48(66) as amended by MSC.207(81),
+  - **Certificate Valid Until**: 2029-11-20
   Certifications:
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
-    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0 – 24437/C0
 
 ### [HC-0308](https://www.cmhammar.com/catalogue/hc-0308/)
 H20RX/MRU Dual Assembly (YELLOW/GREEN),
 
   - **Product Specification**: Heavy load type
+  - **Activation Depth**: approx. 4 meters
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | ROPE SLING: Polyester 1:1, parallel core | TUBING: Polyamide | PLUG-IN NIPPLE: Stainless steel
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | TUBING: Black | PLUG-IN NIPPLE: Stainless steel
+  - **Breaking Load**: ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: Chapter 1.2 General requirements for life-saving appliances of | the LSA Code | IMO Resolution MSC.48(66) as amended by MSC.207(81),
+  - **Certificate Valid Until**: 2029-11-20
   Certifications:
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
 
 ### [HC-0318](https://www.cmhammar.com/catalogue/hc-0318/)
 H20 RX/MRU RX REMOTE Dual Assembly (Y-Y-G)
@@ -148,8 +253,19 @@ H20 RX/MRU RX REMOTE Dual Assembly (Y-Y-G)
   - **Product Specification**: EC approved, extended life 30 months
   - **Breaking Strength**: White rope sling: 15kN; Weak link: 2,2kN +/- 0,4kN
   - **Release Depth**: 1.5-4m
+  - **Activation Depth**: approx. 4 meters
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | ROPE SLING: Polyester 1:1, parallel core | TUBING: Polyamide | PLUG-IN NIPPLE: Stainless steel
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | TUBING: Black | PLUG-IN NIPPLE: Stainless steel
+  - **Breaking Load**: ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: Chapter 1.2 General requirements for life-saving appliances of | the LSA Code | IMO Resolution MSC.48(66) as amended by MSC.207(81),
+  - **Certificate Valid Until**: 2029-11-20
   Certifications:
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
 
 ### [HC-0319](https://www.cmhammar.com/catalogue/hc-0319/)
 H20 RX/MRU RX REMOTE Dual Assembly (YELLOW-GREEN)
@@ -158,8 +274,19 @@ H20 RX/MRU RX REMOTE Dual Assembly (YELLOW-GREEN)
   - **Product Specification**: EC approved, extended life 30 months
   - **Breaking Strength**: White rope sling: 15kN; Weak link: 2,2kN +/- 0,4kN
   - **Release Depth**: 1.5-4m
+  - **Activation Depth**: approx. 4 meters
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | ROPE SLING: Polyester 1:1, parallel core | TUBING: Polyamide | PLUG-IN NIPPLE: Stainless steel
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | TUBING: Black | PLUG-IN NIPPLE: Stainless steel
+  - **Breaking Load**: ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: Chapter 1.2 General requirements for life-saving appliances of | the LSA Code | IMO Resolution MSC.48(66) as amended by MSC.207(81),
+  - **Certificate Valid Until**: 2029-11-20
   Certifications:
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
 
 ### [HC-0323](https://www.cmhammar.com/catalogue/hc-0323/)
 H20 RX/MRU RX Dual Assembly (YELLOW - GREEN)
@@ -169,6 +296,16 @@ H20 RX/MRU RX Dual Assembly (YELLOW - GREEN)
   - **Breaking Strength**: 15kN
   - **Release Depth**: 1,5-4m
   - **Weight**: 0,3kg
+  - **Activation Depth**: approx. 4 meters
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | ROPE SLING: Polyester 1:1, parallel core | TUBING: Polyamide | PLUG-IN NIPPLE: Stainless steel
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | TUBING: Black | PLUG-IN NIPPLE: Stainless steel
+  - **Breaking Load**: ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: Chapter 1.2 General requirements for life-saving appliances of | the LSA Code | IMO Resolution MSC.48(66) as amended by MSC.207(81),
 
 ### [HC-0324](https://www.cmhammar.com/catalogue/hc-0324/)
 H20/MRU RX REMOTE Dual Assembly (YELLOW - GREEN)
@@ -177,6 +314,16 @@ H20/MRU RX REMOTE Dual Assembly (YELLOW - GREEN)
   - **Product Specification**: No Weak Link, EC/USCG/UK approved
   - **Breaking Strength**: 15kN
   - **Release Depth**: 1,5-4 m
+  - **Activation Depth**: approx. 4 meters
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | ROPE SLING: Polyester 1:1, parallel core | TUBING: Polyamide | PLUG-IN NIPPLE: Stainless steel
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | TUBING: Black | PLUG-IN NIPPLE: Stainless steel
+  - **Breaking Load**: ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: Chapter 1.2 General requirements for life-saving appliances of | the LSA Code | IMO Resolution MSC.48(66) as amended by MSC.207(81),
 
 ### [HC-0325](https://www.cmhammar.com/catalogue/hc-0325/)
 H20 RX HRU Dual Assembly (GREEN-GREEN)
@@ -185,6 +332,7 @@ H20 RX HRU Dual Assembly (GREEN-GREEN)
   - **Breaking Strength**: White rope sling: 15kN
   - **Release Depth**: ~4m
   - **Weight**: 0,274kg
+  - **Breaking Load**: White rope sling: 15kN
 
 ### [HC-0330](https://www.cmhammar.com/catalogue/hc-0330/)
 H20/MRU RX REMOTE Dual Assembly (GREEN - GREEN)
@@ -193,6 +341,16 @@ H20/MRU RX REMOTE Dual Assembly (GREEN - GREEN)
   - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN
   - **Release Depth**: approx. 4 m
   - **Weight**: 0.284kg
+  - **Activation Depth**: approx. 4 meters
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | ROPE SLING: Polyester 1:1, parallel core | TUBING: Polyamide | PLUG-IN NIPPLE: Stainless steel
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | TUBING: Black | PLUG-IN NIPPLE: Stainless steel
+  - **Breaking Load**: ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: Chapter 1.2 General requirements for life-saving appliances of | the LSA Code | IMO Resolution MSC.48(66) as amended by MSC.207(81),
 
 ### [HC-0335](https://www.cmhammar.com/catalogue/hc-0335/)
 H20/MRU RX REMOTE  Dual Assembly (YELLLOW - GREEN)
@@ -201,19 +359,32 @@ H20/MRU RX REMOTE  Dual Assembly (YELLLOW - GREEN)
   - **Product Specification**: Double rope sling  RFD MES type
   - **Breaking Strength**: White rope sling: 15kN
   - **Release Depth**: 1,5 - 4 m
+  - **Activation Depth**: approx. 4 meters
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | ROPE SLING: Polyester 1:1, parallel core | TUBING: Polyamide | PLUG-IN NIPPLE: Stainless steel
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | TUBING: Black | PLUG-IN NIPPLE: Stainless steel
+  - **Breaking Load**: ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: Chapter 1.2 General requirements for life-saving appliances of | the LSA Code | IMO Resolution MSC.48(66) as amended by MSC.207(81),
+  - **Certificate Valid Until**: 2029-11-20
   Certifications:
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
-    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0 – 24437/C0
 
 ### [HC-0340](https://www.cmhammar.com/catalogue/hc-0340/)
 H20 HRU RX Dual Assembly (YELLOW-YELLOW)
 
   - **Product Specification**: Single Loop
   - **Release Depth**: 1,5-4m
+  - **Approved Standards**: SOLAS 74 Convention as amended, Regulations III/4, X/3, III/13, III/26 and III/34 | IMO Res. MSC.48(66)-(LSA Code)-amended by MSC.207(81), MSC.218(82), MSC.272(85), MSC.293(87), MSC.320(89), MSC.368(93), MSC.425(98), MSC.459(101) and MSC.485(103) I, IV
+  - **Certificate Valid Until**: 2029-11-20
   Certifications:
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
 
 ### [HC-0402](https://www.cmhammar.com/catalogue/hc-0402/)
 H20/ERU REMOTE Dual Assembly (YELLOW - RED)
@@ -222,9 +393,17 @@ H20/ERU REMOTE Dual Assembly (YELLOW - RED)
   - **Breaking Strength**: White rope sling: 15kN , Weak link: 2,2 +/- 0,4 kN
   - **Release Depth**: 1,5 - 4 m
   - **Weight**: 0.65kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Breaking Load**: strong rope: minimum 15 kN, weak link: 2.2 ± 0.4 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-11-20
   Certifications:
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
 
 ### [HC-0403](https://www.cmhammar.com/catalogue/hc-0403/)
 H20/ERU REMOTE Dual Assembly (YELLOW - RED/YELLOW)
@@ -233,9 +412,17 @@ H20/ERU REMOTE Dual Assembly (YELLOW - RED/YELLOW)
   - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN
   - **Release Depth**: 1,5 - 4 m
   - **Weight**: 0.65kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Breaking Load**: strong rope: minimum 15 kN, weak link: 2.2 ± 0.4 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-11-20
   Certifications:
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
 
 ### [HC-0407](https://www.cmhammar.com/catalogue/hc-0407/)
 ERU/ERU REMOTE Dual Assembly (RED - RED/YELLOW)
@@ -244,9 +431,17 @@ ERU/ERU REMOTE Dual Assembly (RED - RED/YELLOW)
   - **Breaking Strength**: White rope sling: minimum 15 kN
   - **Release Depth**: 1,5 - 4 m
   - **Weight**: 0.6kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Breaking Load**: strong rope: minimum 15 kN, weak link: 2.2 ± 0.4 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-11-20
   Certifications:
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
 
 ### [HC-0412](https://www.cmhammar.com/catalogue/hc-0412/)
 ERU/ERU REMOTE Dual Assembly (RED/GREEN - RED/GREE
@@ -255,14 +450,29 @@ ERU/ERU REMOTE Dual Assembly (RED/GREEN - RED/GREE
   - **Breaking Strength**: White rope sling: minimum 15 kN
   - **Release Depth**: approx. 4 m
   - **Weight**: 0.6kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Breaking Load**: White rope sling: minimum 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
 
 ### [HC-0413](https://www.cmhammar.com/catalogue/hc-0413/)
 HAMMAR single ERU, 1,5-4 mtr
 
   - **Product Specification**: Electric/water activation
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Breaking Load**: strong rope: minimum 15 kN, weak link: 2.2 ± 0.4 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-11-20
   Certifications:
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
 
 ### [HC-0431](https://www.cmhammar.com/catalogue/hc-0431/)
 ERU/ERU RX REMOTE Dual Assembly (R/Y - R/Y)
@@ -272,11 +482,24 @@ ERU/ERU RX REMOTE Dual Assembly (R/Y - R/Y)
   - **Breaking Strength**: 15kN
   - **Release Depth**: 1,5-4 m
   - **Weight**: 0,55kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Breaking Load**: 15kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
 
 ### [HC-0432](https://www.cmhammar.com/catalogue/hc-0432/)
 ERU/ERU RX REMOTE Dual Assembly (R/G - R/G)
 
   - **Product Specification**: With connector, Double ERU
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
 
 ### [HC-0433](https://www.cmhammar.com/catalogue/hc-0433/)
 H20/ERU RX Dual Assembly (YELLOW - RED/YELLOW)
@@ -285,9 +508,17 @@ H20/ERU RX Dual Assembly (YELLOW - RED/YELLOW)
   - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN
   - **Release Depth**: 1,5 - 4 m
   - **Weight**: 0.65kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Breaking Load**: strong rope: minimum 15 kN, weak link: 2.2 ± 0.4 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-11-20
   Certifications:
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
 
 ### [HC-0434](https://www.cmhammar.com/catalogue/hc-0434/)
 H20 RX/ERU RX REMOTE Dual Assembly (YELLOW - RED)
@@ -297,9 +528,17 @@ H20 RX/ERU RX REMOTE Dual Assembly (YELLOW - RED)
   - **Breaking Strength**: White rope sling: 15kN , Weak link: 2,2 +/- 0,4 kN
   - **Release Depth**: 1,5-4m
   - **Weight**: 0,625kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Breaking Load**: strong rope: minimum 15 kN, weak link: 2.2 ± 0.4 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-11-20
   Certifications:
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
 
 ### [HC-0440](https://www.cmhammar.com/catalogue/hc-0440/)
 H20/ERU REMOTE Dual Assembly (GREEN - RED/GREEN)
@@ -308,15 +547,30 @@ H20/ERU REMOTE Dual Assembly (GREEN - RED/GREEN)
   - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN
   - **Release Depth**: approx. 4 m
   - **Weight**: 0.284kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Breaking Load**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2027-06-07
   Certifications:
-    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0
+    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0 – 24437/C0
 
 ### [HC-0441](https://www.cmhammar.com/catalogue/hc-0441/)
 H20/ERU RX REMOTE Dual Assembly (G - R/G)
 
   - **Product Specification**: One rope sling of  570 mm, increased release depth (4 m)
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2027-06-07
   Certifications:
-    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0
+    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0 – 24437/C0
 
 ### [HE-0021](https://www.cmhammar.com/catalogue/he-0021/)
 Plastic bolt, standard type (98mm x M8)
@@ -347,6 +601,7 @@ Plastic bolt, ACR RLB32 (120mm)
 
   - **Product Specification**: Including split pin, stainless steel washer and date label
   - **Weight**: 0.05kg
+  - **Material**: Including split pin, stainless steel washer and date label
 
 ### [HE-0030](https://www.cmhammar.com/catalogue/he-0030/)
 Plastic bolt,  (110mm x M8)
@@ -364,81 +619,165 @@ Plastic bolt, long model (110mm x M8)
 Washer to Plastic bolt
 
   - **Product Specification**: EPDM
+  - **Service Life**: Replace after 2 years
 
 ### [HE-0045](https://www.cmhammar.com/catalogue/he-0045/)
 Nut to Plastic bolt (M8)
 
   - **Product Specification**: Stainless Steel
   - **Weight**: 0.006kg
+  - **Service Life**: Replace after 2 years
+  - **Material**: Stainless Steel
 
 ### [HE-0100](https://www.cmhammar.com/catalogue/he-0100/)
 H20E for EPIRBs
 
   - **Product Specification**: USCG-approved
   - **Weight**: 0.12kg
+  - **Service Life**: The operational life on board the ship is 2 years (24 months).
+  - **Operating Temperature**: -30 to +65oC
+  - **Approved Standards**: SOLAS 74 Convention as amended, Regulations III/4, X/3, III/13, | IMO Res. MSC.48(66) -(LSA Code)- amended by MSC.207(81), | MSC.218(82), MSC.272(85), MSC.293(87), MSC.320(89),
+  - **Certificate Valid Until**: 2029-06-12
   Certifications:
-    - CM Hammar AB – Recognition for BV mode II scheme – Bureau Veritas
-    - H20 E – H20 E ERU – Type Approval – Bureau Veritas – 07494/F0
-    - H20 E – USCG – US – 160.162/4/0 160.062/6/0
+    - CM Hammar AB  – Recognition for BV mode II scheme – Bureau Veritas – SMS.W.II./6337/E.0
+    - H20 E – H20 E ERU – Type Approval – Bureau Veritas – 07494/F0 – 07494/F0
 
 ### [HE-0102](https://www.cmhammar.com/catalogue/he-0102/)
 H20E for EPIRBs
 
   - **Product Specification**: USCG approved
   - **Weight**: 0.12kg
+  - **Service Life**: The operational life on board the ship is 2 years (24 months).
+  - **Operating Temperature**: -30 to +65oC
+  - **Approved Standards**: SOLAS 74 Convention as amended, Regulations III/4, X/3, III/13, | IMO Res. MSC.48(66) -(LSA Code)- amended by MSC.207(81), | MSC.218(82), MSC.272(85), MSC.293(87), MSC.320(89),
+  - **Certificate Valid Until**: 2029-06-12
   Certifications:
-    - CM Hammar AB – Recognition for BV mode II scheme – Bureau Veritas
-    - H20 E – H20 E ERU – Type Approval – Bureau Veritas – 07494/F0
-    - H20 E – USCG – US – 160.162/4/0 160.062/6/0
+    - CM Hammar AB  – Recognition for BV mode II scheme – Bureau Veritas – SMS.W.II./6337/E.0
+    - H20 E – H20 E ERU – Type Approval – Bureau Veritas – 07494/F0 – 07494/F0
 
 ### [HE-0104](https://www.cmhammar.com/catalogue/he-0104/)
 H20E for EPIRBs
 
   - **Product Specification**: France approved
   - **Weight**: 0.12kg
+  - **Service Life**: The operational life on board the ship is 2 years (24 months).
+  - **Operating Temperature**: -30 to +65oC
+  - **Approved Standards**: SOLAS 74 Convention as amended, Regulations III/4, X/3, III/13, | IMO Res. MSC.48(66) -(LSA Code)- amended by MSC.207(81), | MSC.218(82), MSC.272(85), MSC.293(87), MSC.320(89),
+  - **Certificate Valid Until**: 2029-06-12
   Certifications:
-    - CM Hammar AB – Recognition for BV mode II scheme – Bureau Veritas
-    - H20 E – H20 E ERU – Type Approval – Bureau Veritas – 07494/F0
-    - H20 E – USCG – US – 160.162/4/0 160.062/6/0
+    - CM Hammar AB  – Recognition for BV mode II scheme – Bureau Veritas – SMS.W.II./6337/E.0
+    - H20 E – H20 E ERU – Type Approval – Bureau Veritas – 07494/F0 – 07494/F0
 
 ### [HE-0106](https://www.cmhammar.com/catalogue/he-0106/)
 H20E for EPIRBs
 
   - **Product Specification**: SeeBeg approved
   - **Weight**: 0.12kg
+  - **Service Life**: The operational life on board the ship is 2 years (24 months).
+  - **Operating Temperature**: -30 to +65oC
+  - **Approved Standards**: SOLAS 74 Convention as amended, Regulations III/4, X/3, III/13, | IMO Res. MSC.48(66) -(LSA Code)- amended by MSC.207(81), | MSC.218(82), MSC.272(85), MSC.293(87), MSC.320(89),
+  - **Certificate Valid Until**: 2029-06-12
   Certifications:
-    - CM Hammar AB – Recognition for BV mode II scheme – Bureau Veritas
-    - H20 E – H20 E ERU – Type Approval – Bureau Veritas – 07494/F0
-    - H20 E – USCG – US – 160.162/4/0 160.062/6/0
+    - CM Hammar AB  – Recognition for BV mode II scheme – Bureau Veritas – SMS.W.II./6337/E.0
+    - H20 E – H20 E ERU – Type Approval – Bureau Veritas – 07494/F0 – 07494/F0
 
 ### [HE-0107](https://www.cmhammar.com/catalogue/he-0107/)
 H20E for EPIRBs
 
   - **Product Specification**: Spain approved
   - **Weight**: 0.12kg
+  - **Service Life**: The operational life on board the ship is 2 years (24 months).
+  - **Operating Temperature**: -30 to +65oC
+  - **Approved Standards**: SOLAS 74 Convention as amended, Regulations III/4, X/3, III/13, | IMO Res. MSC.48(66) -(LSA Code)- amended by MSC.207(81), | MSC.218(82), MSC.272(85), MSC.293(87), MSC.320(89),
+  - **Certificate Valid Until**: 2029-06-12
   Certifications:
-    - CM Hammar AB – Recognition for BV mode II scheme – Bureau Veritas
-    - H20 E – H20 E ERU – Type Approval – Bureau Veritas – 07494/F0
-    - H20 E – USCG – US – 160.162/4/0 160.062/6/0
+    - CM Hammar AB  – Recognition for BV mode II scheme – Bureau Veritas – SMS.W.II./6337/E.0
+    - H20 E – H20 E ERU – Type Approval – Bureau Veritas – 07494/F0 – 07494/F0
 
 ### [HE-0111](https://www.cmhammar.com/catalogue/he-0111/)
 H20E for EPIRBs
 
   - **Product Specification**: Jotron OEM label
   - **Weight**: 0.12kg
+  - **Service Life**: The operational life on board the ship is 2 years (24 months).
+  - **Operating Temperature**: -30 to +65oC
+  - **Approved Standards**: SOLAS 74 Convention as amended, Regulations III/4, X/3, III/13, | IMO Res. MSC.48(66) -(LSA Code)- amended by MSC.207(81), | MSC.218(82), MSC.272(85), MSC.293(87), MSC.320(89),
+  - **Certificate Valid Until**: 2029-06-12
   Certifications:
-    - CM Hammar AB – Recognition for BV mode II scheme – Bureau Veritas
-    - H20 E – H20 E ERU – Type Approval – Bureau Veritas – 07494/F0
-    - H20 E – USCG – US – 160.162/4/0 160.062/6/0
+    - CM Hammar AB  – Recognition for BV mode II scheme – Bureau Veritas – SMS.W.II./6337/E.0
+    - H20 E – H20 E ERU – Type Approval – Bureau Veritas – 07494/F0 – 07494/F0
 
 ### [HE-0221](https://www.cmhammar.com/catalogue/he-0221/)
 H20E for EPIRBs, Rearming Kit, Standard
 
   - **Product Specification**: USCG approved. Including standard bolt, nut and 2 washers
+  - **Service Life**: The operational life on board the ship is 2 years (24 months).
+  - **Operating Temperature**: -30 to +65oC
+  - **Approved Standards**: SOLAS 74 Convention as amended, Regulations III/4, X/3, III/13, | IMO Res. MSC.48(66) -(LSA Code)- amended by MSC.207(81), | MSC.218(82), MSC.272(85), MSC.293(87), MSC.320(89),
+  - **Certificate Valid Until**: 2029-06-12
   Certifications:
-    - CM Hammar AB – Recognition for BV mode II scheme – Bureau Veritas
-    - H20 E – H20 E ERU – Type Approval – Bureau Veritas – 07494/F0
-    - H20 E – USCG – US – 160.162/4/0 160.062/6/0
+    - CM Hammar AB  – Recognition for BV mode II scheme – Bureau Veritas – SMS.W.II./6337/E.0
+    - H20 E – H20 E ERU – Type Approval – Bureau Veritas – 07494/F0 – 07494/F0
+
+### HE-0224
+H20E for EPIRBs, Rearming Kit, Kannad
+
+  - **Product Specification**: USCG approved. For older models of Kannad. Including bolt, nut, 2 washers
+  - **Service Life**: The operational life on board the ship is 2 years (24 months).
+  - **Operating Temperature**: -30 to +65oC
+  - **Approved Standards**: SOLAS 74 Convention as amended, Regulations III/4, X/3, III/13, | IMO Res. MSC.48(66) -(LSA Code)- amended by MSC.207(81), | MSC.218(82), MSC.272(85), MSC.293(87), MSC.320(89),
+  - **Certificate Valid Until**: 2029-06-12
+  Certifications:
+    - CM Hammar AB  – Recognition for BV mode II scheme – Bureau Veritas – SMS.W.II./6337/E.0
+    - H20 E – H20 E ERU – Type Approval – Bureau Veritas – 07494/F0 – 07494/F0
+
+### HE-0225
+H20E for EPIRBs, in box
+
+  - **Product Specification**: without bolt
+  - **Service Life**: The operational life on board the ship is 2 years (24 months).
+  - **Operating Temperature**: -30 to +65oC
+  - **Approved Standards**: SOLAS 74 Convention as amended, Regulations III/4, X/3, III/13, | IMO Res. MSC.48(66) -(LSA Code)- amended by MSC.207(81), | MSC.218(82), MSC.272(85), MSC.293(87), MSC.320(89),
+  - **Certificate Valid Until**: 2029-06-12
+  Certifications:
+    - CM Hammar AB  – Recognition for BV mode II scheme – Bureau Veritas – SMS.W.II./6337/E.0
+    - H20 E – H20 E ERU – Type Approval – Bureau Veritas – 07494/F0 – 07494/F0
+
+### HE-0227
+H20 for EPIRBs in box
+
+  - **Product Specification**: without bolt, Spain approved
+  - **Service Life**: The operational life on board the ship is 2 years (24 months).
+  - **Operating Temperature**: -30 to +65oC
+  - **Approved Standards**: SOLAS 74 Convention as amended, Regulations III/4, X/3, III/13, | IMO Res. MSC.48(66) -(LSA Code)- amended by MSC.207(81), | MSC.218(82), MSC.272(85), MSC.293(87), MSC.320(89),
+  - **Certificate Valid Until**: 2029-06-12
+  Certifications:
+    - CM Hammar AB  – Recognition for BV mode II scheme – Bureau Veritas – SMS.W.II./6337/E.0
+    - H20 E – H20 E ERU – Type Approval – Bureau Veritas – 07494/F0 – 07494/F0
+
+### HE-0228
+H20E for EPIRBs, Rearming Kit, ACR
+
+  - **Product Specification**: USCG approved. For ACR RLB32/33. Including bolt and date label
+  - **Service Life**: The operational life on board the ship is 2 years (24 months).
+  - **Operating Temperature**: -30 to +65oC
+  - **Approved Standards**: SOLAS 74 Convention as amended, Regulations III/4, X/3, III/13, | IMO Res. MSC.48(66) -(LSA Code)- amended by MSC.207(81), | MSC.218(82), MSC.272(85), MSC.293(87), MSC.320(89),
+  - **Certificate Valid Until**: 2029-06-12
+  Certifications:
+    - CM Hammar AB  – Recognition for BV mode II scheme – Bureau Veritas – SMS.W.II./6337/E.0
+    - H20 E – H20 E ERU – Type Approval – Bureau Veritas – 07494/F0 – 07494/F0
+
+### HE-0230
+H20E for EPIRBs, Rearming Kit, McMurdo
+
+  - **Product Specification**: USCG approved. For older versions of McMurdo. Including bolt, nut and 2 washers
+  - **Service Life**: The operational life on board the ship is 2 years (24 months).
+  - **Operating Temperature**: -30 to +65oC
+  - **Approved Standards**: SOLAS 74 Convention as amended, Regulations III/4, X/3, III/13, | IMO Res. MSC.48(66) -(LSA Code)- amended by MSC.207(81), | MSC.218(82), MSC.272(85), MSC.293(87), MSC.320(89),
+  - **Certificate Valid Until**: 2029-06-12
+  Certifications:
+    - CM Hammar AB  – Recognition for BV mode II scheme – Bureau Veritas – SMS.W.II./6337/E.0
+    - H20 E – H20 E ERU – Type Approval – Bureau Veritas – 07494/F0 – 07494/F0
 
 ### [HM-0300](https://www.cmhammar.com/catalogue/hm-0300/)
 H20 MRU - Manual Remote Unit (GREEN)
@@ -447,8 +786,189 @@ H20 MRU - Manual Remote Unit (GREEN)
   - **Breaking Strength**: White rope sling: minimum 15 kN
   - **Release Depth**: approx. 4 m
   - **Weight**: 0.25kg
+  - **Activation Depth**: approx. 4 meters
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | ROPE SLING: Polyester 1:1, parallel core | TUBING: Polyamide | PLUG-IN NIPPLE: Stainless steel
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | TUBING: Black | PLUG-IN NIPPLE: Stainless steel
+  - **Breaking Load**: ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: Chapter 1.2 General requirements for life-saving appliances of | the LSA Code | IMO Resolution MSC.48(66) as amended by MSC.207(81),
+  - **Certificate Valid Until**: 2027-06-07
   Certifications:
-    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0
+    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0 – 24437/C0
+
+### HM-0301
+Vacuum Pump, complete for stainless steel tubing
+
+  - **Weight**: 0.82kg
+
+### HM-0302
+Vacuum Pump, complete for nylon tubing connection
+
+  - **Weight**: 0.82kg
+
+### HM-0303
+End part of Vacuum pump
+
+  - **Product Specification**: For stainless steel tubing connection
+  - **Weight**: 0.07kg
+  - **Material**: For stainless steel tubing connection
+
+### HM-0304
+End part of Vacuum Pump
+
+  - **Product Specification**: For nylon tubing connection
+  - **Weight**: 0.07kg
+  - **Material**: For nylon tubing connection
+
+### HM-0305
+U-Console
+
+  - **Product Specification**: For stainless steel tubing
+  - **Weight**: 0.09kg
+  - **Material**: For stainless steel tubing
+
+### HM-0306
+HRU -Console
+
+  - **Product Specification**: For tube-cutting HRU
+  - **Weight**: 0.09kg
+
+### HM-0307
+Interconnection Tube Coupling
+
+  - **Product Specification**: Stainless steel, complete, length 30 mm
+  - **Weight**: 0.012kg
+  - **Material**: Stainless steel, complete, length 30 mm
+
+### HM-0308
+T-Piece Coupling
+
+  - **Product Specification**: Stainless steel, complete
+  - **Weight**: 0.025kg
+  - **Material**: Stainless steel, complete
+
+### HM-0309
+Nut
+
+  - **Product Specification**: Stainless steel, to S/S couplings
+  - **Weight**: 0.003kg
+  - **Material**: Stainless steel, to S/S couplings
+
+### HM-0310
+Olive
+
+  - **Product Specification**: Stainless steel, to S/S couplings
+  - **Weight**: 0.001kg
+  - **Material**: Stainless steel, to S/S couplings
+
+### HM-0311
+Tubing, Stainless Steel, Special Grade
+
+  - **Product Specification**: 3.0mm Ø
+  - **Weight**: 0.035kg
+
+### HM-0312
+Ball Valve
+
+  - **Product Specification**: Stainless steel, 2-ways, complete
+  - **Weight**: 0.02kg
+  - **Material**: Stainless steel, 2-ways, complete
+
+### HM-0313
+Non-Return Valve
+
+  - **Product Specification**: Stainless steel for 3.2mm S/S tubing, complete
+  - **Weight**: 0.09kg
+  - **Material**: Stainless steel for 3.2mm S/S tubing, complete
+
+### HM-0314
+Tubing, Nylon
+
+  - **Product Specification**: 6,4mm Ø
+  - **Weight**: 0.02kg
+
+### HM-0315
+Tube Cutter
+
+  - **Product Specification**: For stainless steel tubing
+  - **Weight**: 0.02kg
+  - **Material**: For stainless steel tubing
+
+### HM-0321
+U-Console
+
+  - **Product Specification**: for nylon tubing connection, complete
+  - **Weight**: 0.09kg
+  - **Material**: for nylon tubing connection, complete
+
+### HM-0324
+End Part Tool
+
+  - **Product Specification**: To stainless steel tubing
+  - **Weight**: 0.1kg
+  - **Material**: To stainless steel tubing
+
+### HM-0328
+Nipple
+
+  - **Product Specification**: Stainless steel, for U-console for nylon tubing
+  - **Weight**: 0.01kg
+  - **Material**: Stainless steel, for U-console for nylon tubing
+
+### HM-0329
+Coupling
+
+  - **Product Specification**: Stainless steel, for U-console for S/S
+  - **Weight**: 0.003kg
+  - **Material**: Stainless steel, for U-console for S/S
+
+### HM-0331
+Sleeve for Nylon Tubing
+
+  - **Product Specification**: For securing 6.4mmØ Nylon tubing to Nipple
+  - **Dimensions**: L: 10mm, Dia: 8.6mm
+  - **Weight**: 0.008kg
+  - **Material**: For securing 6.4mmØ Nylon tubing to Nipple
+
+### HM-0332
+Protective Tubing, Nylon
+
+  - **Product Specification**: Black, 8.6mm Ø
+  - **Weight**: 0.025kg
+
+### HM-0333
+Vacuum pressure gauge
+
+  - **Product Specification**: For testing of vacuum pressure  in MRRS system
+  - **Weight**: 0.05kg
+
+### HM-0334
+Lubricant TP55
+
+  - **Product Specification**: For piston in Hammar Vacuum Pump, 50 gr
+  - **Dimensions**: 14 x 2,5 cm
+  - **Weight**: 0.07kg
+
+### HM-0335
+Safety Seal
+
+  - **Product Specification**: For Vacuum Pump
+  - **Weight**: 0.005kg
+
+### HM-0337
+Protective Cap
+
+  - **Product Specification**: For U-Console
+
+### HM-0338
+Safety Pin for Vacuum Pump
+
+  - **Product Specification**: for HM-0301 and HM-0302
+  - **Weight**: 0,005kg
 
 ### [HM-0350](https://www.cmhammar.com/catalogue/hm-0350/)
 H20RX MRU - Manual Remote Unit (GREEN)
@@ -456,8 +976,33 @@ H20RX MRU - Manual Remote Unit (GREEN)
   - **Product Specification**: Manual remote unit for MRRS, extended life 30 months
   - **Release Depth**: Approx. 4 metres
   - **Weight**: 0,25kgkg
+  - **Activation Depth**: approx. 4 meters
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | ROPE SLING: Polyester 1:1, parallel core | TUBING: Polyamide | PLUG-IN NIPPLE: Stainless steel
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | TUBING: Black | PLUG-IN NIPPLE: Stainless steel
+  - **Breaking Load**: ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: Chapter 1.2 General requirements for life-saving appliances of | the LSA Code | IMO Resolution MSC.48(66) as amended by MSC.207(81),
+  - **Certificate Valid Until**: 2027-06-07
   Certifications:
-    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0
+    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0 – 24437/C0
+
+### HM-0370
+Olive
+
+  - **Product Specification**: Stainless Steel, Olive for Non-Return Valve, for S/S tubing
+  - **Weight**: 0.002kg
+  - **Material**: Stainless Steel, Olive for Non-Return Valve, for S/S tubing
+
+### HM-0375
+Nut
+
+  - **Product Specification**: Stainless steel nut to non-return valve, for S/S tubing
+  - **Weight**: 0.002kg
+  - **Material**: Stainless steel nut to non-return valve, for S/S tubing
 
 ### [HM-0400](https://www.cmhammar.com/catalogue/hm-0400/)
 H20 ERU - Electric Remote Unit (RED)
@@ -465,6 +1010,13 @@ H20 ERU - Electric Remote Unit (RED)
   - **Product Specification**: Electric activation only
   - **Breaking Strength**: White rope sling: minimum 15 kN
   - **Weight**: 0.29kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Breaking Load**: White rope sling: minimum 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
 
 ### [HM-0403](https://www.cmhammar.com/catalogue/hm-0403/)
 H20 ERU - Electric Remote Unit (RED/BLUE)
@@ -473,6 +1025,13 @@ H20 ERU - Electric Remote Unit (RED/BLUE)
   - **Breaking Strength**: White rope sling: minimum 15 kN
   - **Release Depth**: approx. 6 m
   - **Weight**: 0.3kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Breaking Load**: White rope sling: minimum 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
 
 ### [HM-0405](https://www.cmhammar.com/catalogue/hm-0405/)
 H20 ERU - Electric Remote Unit (RED/YELLOW)
@@ -481,9 +1040,17 @@ H20 ERU - Electric Remote Unit (RED/YELLOW)
   - **Breaking Strength**: White rope sling: minimum 15 kN
   - **Release Depth**: 1,5 - 4 m
   - **Weight**: 0.3kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Breaking Load**: White rope sling: minimum 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-11-20
   Certifications:
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
 
 ### [HM-0406](https://www.cmhammar.com/catalogue/hm-0406/)
 Replacement kit Lifebuoy system Mk I
@@ -492,9 +1059,17 @@ Replacement kit Lifebuoy system Mk I
   - **Breaking Strength**: Cord sling: minimum 6 kN
   - **Release Depth**: 1,5 - 4 m
   - **Weight**: 0.5kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Breaking Load**: Cord sling: minimum 6 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-11-20
   Certifications:
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
 
 ### [HM-0407](https://www.cmhammar.com/catalogue/hm-0407/)
 H20 ERU - Electric Remote Unit
@@ -503,9 +1078,17 @@ H20 ERU - Electric Remote Unit
   - **Breaking Strength**: White rope sling: minimum 15 kN
   - **Release Depth**: 1,5 - 4,0 metres
   - **Weight**: 0,3kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Breaking Load**: strong rope: minimum 15 kN, weak link: 2.2 ± 0.4 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-11-20
   Certifications:
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
 
 ### [HM-0408](https://www.cmhammar.com/catalogue/hm-0408/)
 H20 ERU - Electric Remote Unit (RED/GREEN)
@@ -514,6 +1097,13 @@ H20 ERU - Electric Remote Unit (RED/GREEN)
   - **Breaking Strength**: White rope sling: minimum 15 kN
   - **Release Depth**: approx. 4 m
   - **Weight**: 0.29kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Breaking Load**: White rope sling: minimum 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
 
 ### [HM-0409](https://www.cmhammar.com/catalogue/hm-0409/)
 H20 ERU - Electric Remote Unit, (RED/YELLOW)
@@ -521,9 +1111,16 @@ H20 ERU - Electric Remote Unit, (RED/YELLOW)
   - **Product Specification**: For EPIRB or Lifebuoy Release, electric/water activation
   - **Release Depth**: 1,5 - 4 metres
   - **Weight**: 0.28kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-11-20
   Certifications:
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
 
 ### [HM-0411](https://www.cmhammar.com/catalogue/hm-0411/)
 H20 ERU RX -  Electric Remote Unit, (RED/YELLOW)
@@ -531,9 +1128,16 @@ H20 ERU RX -  Electric Remote Unit, (RED/YELLOW)
   - **Product Specification**: ERU 1,8m cable with male connector, Electric/Water activation, extended life 30 months
   - **Release Depth**: 1,5 - 4,0 metres
   - **Weight**: 0,29kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-11-20
   Certifications:
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
 
 ### [HM-0412](https://www.cmhammar.com/catalogue/hm-0412/)
 H20 ERU - Electric Remote Unit (RED/YELLOW)
@@ -541,9 +1145,33 @@ H20 ERU - Electric Remote Unit (RED/YELLOW)
   - **Approvals**: EC approval
   - **Product Specification**: 2,3 metre cable with male connector, Electric/Water activation
   - **Release Depth**: 1,5-4 m
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-11-20
   Certifications:
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+
+### HM-0413
+H20 ERU RX - Electric Remote Unit, (RED/YELLOW)
+
+  - **Approvals**: UKCA/EC approved
+  - **Product Specification**: Electric/Water activation, 2,3m cable with male connector, extended life 30 months
+  - **Release Depth**: 1,5-4m
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-11-20
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
 
 ### [HM-0414](https://www.cmhammar.com/catalogue/hm-0414/)
 H20 ERU Standard SOLAS model (RED/YELLOW)
@@ -553,8 +1181,170 @@ H20 ERU Standard SOLAS model (RED/YELLOW)
   - **Breaking Strength**: White Rope Sling: 15kN Weak Link 2,2 (+/- 0,4) kN According to SOLAS Regulation
   - **Release Depth**: 1.5-4m
   - **Weight**: 0.35kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Breaking Load**: strong rope: minimum 15 kN, weak link: 2.2 ± 0.4 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-11-20
   Certifications:
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+
+### HM-0417
+H20 ERU RX - Electric Remote Unit (RED/YELLOW)
+
+  - **Product Specification**: Electric/water activation, release depth 1.5 - 4m, 2.3m cable
+  - **Breaking Strength**: White rope sling: minimum 15 kN
+  - **Release Depth**: 1,5 - 4 m
+  - **Weight**: 0.3kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Breaking Load**: White rope sling: minimum 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-11-20
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+
+### HM-0419
+H20 ERU RX - Electric Remote Unit, (RED/YELLOW)
+
+  - **Approvals**: UKCA/EC approved
+  - **Product Specification**: Electric/Water activation, 2,3m cable, extended life 30 months
+  - **Release Depth**: 1,5-4m
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-11-20
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+
+### HM-0421
+H20 ERU RX - Electric Release Unit (RED/YELLOW)
+
+  - **Approvals**: USCG/UKCA/EC approved
+  - **Product Specification**: El / water Activated, 1,8m cable and Connector, 230mm sling
+  - **Release Depth**: 1,5-4 m
+  - **Weight**: 0,28kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+
+### HM-0422
+H20 ERU RX - Electric Release Unit (RED/YELLOW)
+
+  - **Approvals**: EC, USCG, UK
+  - **Product Specification**: El/water activated, 1.8m cable w Connector, 160mm sling
+  - **Breaking Strength**: 15kN
+  - **Release Depth**: 1,5-4 m
+  - **Weight**: 0,28kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Breaking Load**: 15kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+
+### HM-0424
+H20 ERU RX - Electric Remote Unit (RED)
+
+  - **Product Specification**: Electric activation only, 1.8m cable w. connector
+  - **Breaking Strength**: 15kN
+  - **Weight**: 0,28kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Breaking Load**: 15kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+
+### HM-0426
+Connector Box for 2 ERUs
+
+  - **Product Specification**: GRP
+  - **Dimensions**: 80 x 75 x 56mm
+  - **Inputs**: PG11 gland
+  - **Outputs**: 2 x PG11 gland
+  - **Weight**: 0,15kg
+
+### HM-0430
+Connector Box for one ERU
+
+  - **Product Specification**: GRP
+  - **Dimensions**: 55 x 55 x 38mm
+  - **Inputs**: PG11 gland
+  - **Outputs**: PG11 gland
+  - **Weight**: 0,15kg
+
+### HM-0436
+Cable - Control Panel to Release switch
+
+  - **Product Specification**: Marine approved, screened, 4 x 0,75 mm2
+  - **Dimensions**: 4 x 0,75 mm2
+  - **Weight**: 0.19kg
+
+### HM-0440
+Cable - Control Unit to Connector box
+
+  - **Product Specification**: Marine approved, screened, 1 x 2 x 0,75 mm2
+  - **Dimensions**: Dia: 7,5 mm
+  - **Weight**: Per meter: 0,09kg
+  - **Approved Standards**: SOLAS Amendments Chapter II-1, Part D, Reg. 45, 5.2 | IEC 60092-350
+  - **Certificate Valid Until**: 2027-12-31
+  Certifications:
+    - ERRS Cable HM-0440 – Type Approval – DNV – TAE00002E7
+
+### HM-0450
+Discontinued: Release Switch for one ERU
+
+  - **Product Specification**: Replaced by HM-0550
+  - **Backup Battery**: None
+  - **Dimensions**: 102x102x82
+  - **Outputs**: 1
+  - **Weight**: 0.6kg
+
+### HM-0451
+Discontinued: Release Switch, Flush Mount
+
+  - **Product Specification**: For integration to panel, Replaced by HM-0551
+  - **Backup Battery**: None
+  - **Dimensions**: 47x34x23 / 35x40x21
+  - **Outputs**: 1
+  - **Weight**: 0.15kg
+
+### HM-0452
+Intelligent Remote Push button IRPB
+
+  - **Product Specification**: Replaced by HM-0552
+  - **Backup Battery**: None
+  - **Dimensions**: 102x102x82mm
+  - **Outputs**: 1
+  - **Weight**: 0,6 kgkg
+
+### HM-0458
+ERRS Simulator
+
+  - **Product Specification**: For testing Control Box BO
+  - **Dimensions**: Lenght: 71mm Ø: 25mm
+  - **Weight**: 0,024kg
+
+### HM-0459
+ERRS Battery adapter - Discontinued
+
+  - **Weight**: 0.003kg
 
 ### [HM-0461](https://www.cmhammar.com/catalogue/hm-0461/)
 ERRS Control Box  LAD
@@ -566,6 +1356,281 @@ ERRS Control Box  LAD
   - **Outputs**: 2
   - **Transport**: Dangerous Goods - extra cost for transportation will be added
   - **Weight**: 2.05kg
+  - **Operating Temperature**: -30 to +65oC
+  - **Power Supply**: Emergency power 24V
+  - **Enclosure Protection**: IP66
+  - **Activation Angle**: ~90 degree angle
+
+### HM-0461-L
+LAD Light SYSTEM
+
+  - **Approvals**: H20 according to SOLAS
+  - **Product Specification**: Complete Kit, Plug and Play
+  - **Outputs**: 1
+  - **Release Depth**: 1.5-4m and Automatic at List Angle
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Backup Battery**: Up to 12 hours operating time
+  - **Power Supply**: Emergency power 24V
+  - **Enclosure Protection**: IP66
+  - **Activation Angle**: ~90 degree angle
+
+### HM-0461-RB
+LAD for Rightning Bag
+
+  - **Product Specification**: Control Unit
+  - **Dimensions**: 120x160x91mm (excl glands)
+  - **Inputs**: 12/24V Em'cy Power
+  - **Outputs**: 2
+  - **Release Depth**: 120 deg
+  - **Weight**: 0,9kg
+
+### HM-0463
+Control Box BO / LAD
+
+  - **Product Specification**: Battery Operated / List Angle Detection - DISCONTINUED - Please contact CM Hammar for further information
+  - **Weight**: 2.65kg
+
+### HM-0467
+ERU Emulator
+
+  - **Product Specification**: For testing ERRS output signals
+  - **Weight**: 0,2kg
+  - **Service Life**: Approximately 200 hours
+
+### HM-0470
+HPS - Hydrostatic Pressure Switch
+
+  - **Product Specification**: With 1,5 m cable
+  - **Release Depth**: 1,2 m
+  - **Weight**: 0.25kg
+  - **Activation Depth**: Activates at 1,2 m water depth.
+  - **Service Life**: 3 years from manufacturing date PRODUCT MARKING Marcode Serial number : XXXXX Manufacturing date: YY/MM POWER SUPPLY HPS receives power from connected Control Unit Optional Connector: Souriau, 3-pin, male (HM-0474) or female (HM-0481). ACCESSORIES Weight 550gr, HM-0481 . reV H20 Release Systems. liferaft or to a hydrostatic Release Units for or bolt push a switch on a
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: HPS HOUSING: Housing: Polyamid (PA6) | CABLE: Drakafl ex, H05RN-F, 3G
+  - **Colour**: HPS HOUSING: Black | CABLE: Black
+  - **Approved Standards**: SOLAS 74 Convention as amended, Regulations III/4, X/3, III/13, | IMO Res. MSC.48(66) -(LSA Code)- amended by MSC.207(81), | MSC.218(82), MSC.272(85), MSC.293(87), MSC.320(89),
+
+### HM-0471
+Pushbutton for test of HPS
+
+  - **Product Specification**: input ERRS systems
+
+### HM-0478
+Water Sensor
+
+  - **Dimensions**: 100x100x80mm
+  - **Weight**: 0.74kg
+
+### HM-0478-0001
+O-Ring
+
+  - **Product Specification**: for Water Sensor
+
+### HM-0479
+Enclosure for water sensor
+
+  - **Dimensions**: 188x188x129,5
+  - **Weight**: 1.1kg
+
+### HM-0482
+Weight for HPS
+
+  - **Weight**: 0,55kg
+
+### HM-0486
+Magnetic Activation Bar
+
+  - **Product Specification**: For Control Unit
+  - **Weight**: 0,075kg
+
+### HM-0489
+AC/DC Converter
+
+  - **Approvals**: IP67
+  - **Product Specification**: 240VAC/24VDC, 4A
+  - **Inputs**: 240VAC
+  - **Outputs**: 24VDC
+  - **Weight**: 1,02kg
+
+### HM-0491
+Polar Box
+
+  - **Approvals**: EC approval
+  - **Product Specification**: Heated for two H20 HRU
+  - **Breaking Strength**: White rope sling: 15kN; Weak link: 2,2kN +/- 0,4kN
+  - **Release Depth**: 1,5-4 m
+  - **Weight**: 1.5kg
+  - **Breaking Load**: White rope sling: 15kN; Weak link: 2,2kN +/- 0,4kN
+  - **Approved Standards**: SOLAS 74 Convention as amended, Regulations III/4, X/3, III/13, III/26 and III/34 | IMO Res. MSC.48(66)-(LSA Code)-amended by MSC.207(81), MSC.218(82), MSC.272(85), MSC.293(87), MSC.320(89), MSC.368(93), MSC.425(98), MSC.459(101) and MSC.485(103) I, IV
+  - **Certificate Valid Until**: 2029-01-24
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+
+### HM-0492
+HeaterGuard
+
+  - **Product Specification**: Control unit and alarm output for Polar Box
+  - **Weight**: 0.09kg
+
+### HM-0495
+Battery Pack
+
+  - **Product Specification**: For Control Box BO, LAD and LRS
+  - **Dimensions**: 90x50x20 mm
+  - **Transport**: Dangerous Goods - extra cost for transportation will be added
+  - **Weight**: 0.12kg
+
+### HM-0498
+Polar Box
+
+  - **Approvals**: EC approval
+  - **Product Specification**: Heated for one H20
+  - **Breaking Strength**: White rope sling: 15kN; Weak link: 2,2kN +/- 0,4kN
+  - **Release Depth**: 1,5-4m
+  - **Breaking Load**: White rope sling: 15kN; Weak link: 2,2kN +/- 0,4kN
+  - **Approved Standards**: SOLAS 74 Convention as amended, Regulations III/4, X/3, III/13, III/26 and III/34 | IMO Res. MSC.48(66)-(LSA Code)-amended by MSC.207(81), MSC.218(82), MSC.272(85), MSC.293(87), MSC.320(89), MSC.368(93), MSC.425(98), MSC.459(101) and MSC.485(103) I, IV
+  - **Certificate Valid Until**: 2029-01-24
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+
+### HM-0550
+Release Switch for one ERU
+
+  - **Outputs**: 1
+  - **Release Depth**: 80x100x80
+  - **Weight**: 0.6kg
+
+### HM-0551
+Release Switch, Flush Mount
+
+  - **Product Specification**: For integration to panel
+  - **Backup Battery**: None
+  - **Outputs**: 1
+  - **Weight**: 0.15kg
+
+### HM-0552
+Intelligent Remote Push button IRPB
+
+  - **Release Depth**: 80x100x80
+  - **Weight**: 0.6kg
+
+### HM-0552-0555
+IRPB w. Adaptor Plate
+
+
+### HM-0555
+Adaptor Plate
+
+  - **Product Specification**: for HM-0550 and HM-0552
+
+### HM-0600
+Lifebuoy Release System Mk II
+
+  - **Product Specification**: Complete package for electric/water release
+  - **Backup Battery**: No
+  - **Release Depth**: 1,5 - 4 m
+  - **Weight**: 18kg
+  - **Approved Standards**: SOLAS 74 Convention as amended, Regulations III/4, X/3, III/13, III/26 and III/34 | IMO Res. MSC.48(66)-(LSA Code)-amended by MSC.207(81), MSC.218(82), MSC.272(85), MSC.293(87), MSC.320(89), MSC.368(93), MSC.425(98), MSC.459(101) and MSC.485(103) I, IV
+  - **Certificate Valid Until**: 2029-01-24
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+    - Lifebuoy Release System – Attestation – Bureau Veritas 00187GTB24 – 00187GTB24
+
+### HM-0601
+Lifebuoy Release System MK II
+
+  - **Product Specification**: Package for electric/water release , without cable
+  - **Release Depth**: 1,5 - 4,0 metres
+  - **Weight**: 18kg
+  - **Approved Standards**: SOLAS 74 Convention as amended, Regulations III/4, X/3, III/13, III/26 and III/34 | IMO Res. MSC.48(66)-(LSA Code)-amended by MSC.207(81), MSC.218(82), MSC.272(85), MSC.293(87), MSC.320(89), MSC.368(93), MSC.425(98), MSC.459(101) and MSC.485(103) I, IV
+  - **Certificate Valid Until**: 2029-01-24
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+    - Lifebuoy Release System – Attestation – Bureau Veritas 00187GTB24 – 00187GTB24
+
+### HM-0605
+Lifebuoy Release System MkII, Complete package
+
+  - **Product Specification**: for electric/water release flush mount Release Button
+  - **Backup Battery**: No
+  - **Release Depth**: 1,5-4m
+  - **Weight**: 18kg
+  - **Approved Standards**: SOLAS 74 Convention as amended, Regulations III/4, X/3, III/13, III/26 and III/34 | IMO Res. MSC.48(66)-(LSA Code)-amended by MSC.207(81), MSC.218(82), MSC.272(85), MSC.293(87), MSC.320(89), MSC.368(93), MSC.425(98), MSC.459(101) and MSC.485(103) I, IV
+  - **Certificate Valid Until**: 2029-01-24
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+    - Lifebuoy Release System – Attestation – Bureau Veritas 00187GTB24 – 00187GTB24
+
+### HM-0610
+Lifebuoy Release System Mk II
+
+  - **Product Specification**: Package for manual release only
+  - **Weight**: 16kg
+
+### HM-0615
+GRP Holder
+
+  - **Product Specification**: with pre-install metal holder and bracket
+  - **Weight**: 16kg
+  - **Approved Standards**: SOLAS | IMO Res.
+  Certifications:
+    - Lifebuoy Release System – Attestation – Bureau Veritas 00187GTB24 – 00187GTB24
+
+### HM-0620
+Lifebuoy metal spring holder
+
+  - **Weight**: 1.8kg
+
+### HM-0630
+Replacement Kit Lifebuoy Release System MkII
+
+  - **Product Specification**: ERU electric/water release
+  - **Release Depth**: 1,5-4m
+  - **Weight**: 0.4kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-11-20
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+
+### HM-0650
+Lifebuoy Release System, Vacuum
+
+  - **Product Specification**: Complete package for vacuum pump
+  - **Weight**: 18kg
+  - **Activation Depth**: approx. 4 meters
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | ROPE SLING: Polyester 1:1, parallel core | TUBING: Polyamide | PLUG-IN NIPPLE: Stainless steel
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | TUBING: Black | PLUG-IN NIPPLE: Stainless steel
+  - **Breaking Load**: ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: Chapter 1.2 General requirements for life-saving appliances of | the LSA Code | IMO Resolution MSC.48(66) as amended by MSC.207(81),
+  - **Certificate Valid Until**: 2029-01-24
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+    - Lifebuoy Release System – Attestation – Bureau Veritas 00187GTB24 – 00187GTB24
+
+### HM-0660
+Replacement kit Lifebuoy Release System MkII
+
+  - **Product Specification**: MRU vacuum operated
+  - **Approved Standards**: Chapter 1.2 General requirements for life-saving appliances of the LSA Code | IMO Resolution MSC.48(66) as amended by MSC.207(81), MSC.218(82), MSC.272(85), MSC.293(87), MSC.320(89), MSC.368(93), MSC.425(98), MSC.459(101) and MSC.485(103) I, IV
+  - **Certificate Valid Until**: 2027-06-07
+  Certifications:
+    - H20 MRU – H20 MRU X – Type Approval – Bureau Veritas 24437/C0 – 24437/C0
 
 ### [HM-0710](https://www.cmhammar.com/catalogue/hm-0710/)
 Control Panel 2, with Back-Up Battery
@@ -576,14 +1641,137 @@ Control Panel 2, with Back-Up Battery
   - **Inputs**: 2 + 4
   - **Outputs**: 10 + 2
   - **Weight**: 2.62kg
-  Certifications:
-    - ERRS CP2 – USCG Letter of Acceptance – US -16714/160.062
+
+### HM-0715
+ERRS Control Panel 2
+
+  - **Product Specification**: Only front panel
 
 ### [HM-0725](https://www.cmhammar.com/catalogue/hm-0725/)
 Rechargeable Battery Pack
 
   - **Product Specification**: for Control Panel 2
   - **Weight**: 0,3kg
+  - **Colour**: white
+  - **Capacity**: 2.5 AH
+  - **Voltage**: 6.8 Volt
+  - **Battery Type**: Sealed Lead-Acid
+
+### HM-0730
+Ground connection device M20
+
+  - **Product Specification**: Cable diameter 6-12mm
+  - **Weight**: 0.165kg
+
+### HM-0735
+Ground Connection Device M25
+
+  - **Product Specification**: Cable diameter 12-18mm
+  - **Weight**: 0.22kg
+
+### HM-0765
+Replacement Battery Kit
+
+  - **Product Specification**: incl. Expiry label, soft protection
+  - **Transport**: Dangerous Goods - extra cost for transportation will be added
+
+### HM-0767
+Cable Gland
+
+  - **Product Specification**: PG11 IP68
+
+### HM-0768
+Blind Plug
+
+  - **Product Specification**: PG11 IP68
+
+### HM-0769
+O-ring
+
+  - **Product Specification**: for TiltSensor
+
+### HM-0771-0450
+Discontinued: Prot. enclos. with Release Switch
+
+  - **Product Specification**: Replaced by HM-0773-0550
+
+### HM-0771-0452
+Discontinued: Protective enclosure with IRPB
+
+  - **Product Specification**: Replaced by HM-0773-0552
+
+### [HM-0772-0710](https://www.cmhammar.com/catalogue/hm-0772-0710/)
+CP2 with Protective Enclosure
+
+  - **Product Specification**: Left  incl. HM-0772 and HM-0710
+  - **Backup Battery**: Up to 20h, Rechargable
+  - **Dimensions**: 305 (W) x 254 (H) x 102 (D) mm
+  - **Inputs**: 2+4
+  - **Outputs**: 10+2
+  - **Weight**: 3.1kg
+
+### HM-0773
+Protective Enclosure
+
+  - **Product Specification**: for Release Switch and IRPB
+  - **Dimensions**: See Drawing
+
+### HM-0773-0550
+Protective Ensclosure with Release Switch
+
+  - **Product Specification**: for one ERU
+  - **Outputs**: 1
+
+### HM-0773-0552
+Protective Ensclosure with IRPB
+
+
+### HM-0800
+H20 ERU EX - Electric Remote Unit (RED)
+
+  - **Approvals**: IECEX and ATEX approved
+  - **Product Specification**: Electric activation only
+  - **Weight**: 0,28kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+
+### HM-0801
+H20 ERU EX - Electric Remote Unit (RED)
+
+  - **Product Specification**: Electric activation only
+  - **Breaking Strength**: 15kN
+  - **Weight**: 0,28kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Breaking Load**: 15kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+
+### HM-0805
+H20 ERU EX - Electric Remote Unit  (RED/YELLOW)
+
+  - **Approvals**: IECEX and ATEX approved
+  - **Product Specification**: Electric/water activation
+  - **Breaking Strength**: 15kN
+  - **Release Depth**: 1,5-4m
+  - **Weight**: 0,28kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Breaking Load**: 15kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-11-20
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
 
 ### [HM-0807](https://www.cmhammar.com/catalogue/hm-0807/)
 H20 ERU EX - Electric Remote Unit  (RED/YELLOW)
@@ -593,10 +1781,89 @@ H20 ERU EX - Electric Remote Unit  (RED/YELLOW)
   - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN according to SOLAS regulations
   - **Release Depth**: 1,5-4 m
   - **Weight**: 0,3kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Breaking Load**: strong rope: minimum 15 kN, weak link: 2.2 ± 0.4 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-11-20
   Certifications:
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
-    - H20 ERU EX – IECEx – EPS 18.0038X
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+
+### HM-0809
+H20 ERU EX - Electric Remote Unit  (RED/YELLOW)
+
+  - **Approvals**: IECEX and ATEX approved, EC approved
+  - **Product Specification**: Electric/water activation, no rope sling or weak link
+  - **Release Depth**: 1,5-4 m
+  - **Weight**: 0,28kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Colour**: H20 HOUSING: Black | ROPE SLING: White & black stripes | METRON: Black | CABLE: Black
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention * | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-11-20
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+
+### HM-0810
+Protection Circuit card EX
+
+  - **Product Specification**: Spare Part
+  - **Weight**: 0,0475kg
+
+### HM-0820
+Protection Circuit Card EX
+
+  - **Product Specification**: With enclosure
+  - **Dimensions**: 120x220x84mm (excl glands)
+  - **Weight**: 1,424kg
+
+### HM-0830
+Connector Box EX
+
+  - **Approvals**: EX approved
+  - **Product Specification**: Stainless steel
+  - **Weight**: 1.6kg
+  - **Material**: Stainless steel
+
+### HM-0845
+Cable gland M16 EMC
+
+  - **Product Specification**: For cable diameter 5 - 10 mm
+  - **Weight**: 0.031kg
+
+### HM-0846
+Cable gland M20 EMC
+
+  - **Product Specification**: For cable diameter 7.5 - 14 mm
+  - **Weight**: 0.047kg
+
+### HM-0850
+Release switch HD
+
+  - **Product Specification**: Heavy Duty
+  - **Dimensions**: 120x220x84mm (excl glands)
+  - **Outputs**: 1
+  - **Weight**: 1,8kg
+
+### HM-0893
+Polar Box EX
+
+  - **Approvals**: IECEX and ATEX approved, EC approved
+  - **Product Specification**: Heated for two H20 ERU EX
+  - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN
+  - **Release Depth**: 1,5-4 m
+  - **Breaking Load**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention as amended, Regulations III/4, X/3, III/13, III/26 and III/34 | IMO Res. MSC.48(66)-(LSA Code)-amended by MSC.207(81), MSC.218(82), MSC.272(85), MSC.293(87), MSC.320(89), MSC.368(93), MSC.425(98), MSC.459(101) and MSC.485(103) I, IV
+  - **Certificate Valid Until**: 2029-01-24
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
 
 ### [HR-0100](https://www.cmhammar.com/catalogue/hr-0100/)
 H20 HRU standard SOLAS model (YELLOW)
@@ -606,10 +1873,20 @@ H20 HRU standard SOLAS model (YELLOW)
   - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN according to SOLAS regulations
   - **Release Depth**: 1,5 - 4 m
   - **Weight**: 0.220kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | WEAK LINK: PA6 & Stainless steel | ROPE SLING: Polyester 1:1, parallel core | THIMBLE: PA
+  - **Colour**: H20 HOUSING: Black | WEAK LINK: Red & Black | ROPE SLING: White & black stripes | THIMBLE: Yellow
+  - **Breaking Load**: WEAK LINK: 2,2 ± 0,4 kN | ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-11-20
   Certifications:
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
-    - H20 R – CSS China – GB23PT00001
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
 
 ### [HR-0102](https://www.cmhammar.com/catalogue/hr-0102/)
 H20 HRU standard SOLAS model (YELLOW)
@@ -619,10 +1896,264 @@ H20 HRU standard SOLAS model (YELLOW)
   - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN according to SOLAS regulations
   - **Release Depth**: 1,5 - 4 m
   - **Weight**: 0.220kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | WEAK LINK: PA6 & Stainless steel | ROPE SLING: Polyester 1:1, parallel core | THIMBLE: PA
+  - **Colour**: H20 HOUSING: Black | WEAK LINK: Red & Black | ROPE SLING: White & black stripes | THIMBLE: Yellow
+  - **Breaking Load**: WEAK LINK: 2,2 ± 0,4 kN | ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-11-20
   Certifications:
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – MCA RedEnsign 73672/B0 UK
-    - H20 R – CSS China – GB23PT00001
-    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EBV – Module B – EC/USCG – Bureau Veritas – 07493/G0
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+
+### HR-0103
+H20 standard SOLAS model (YELLOW)
+
+  - **Approvals**: Transport Canada / EC approved
+  - **Product Specification**: TC / EC approved
+  - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN according to SOLAS regulations
+  - **Release Depth**: 1,5 - 4 m
+  - **Weight**: 0.220kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | WEAK LINK: PA6 & Stainless steel | ROPE SLING: Polyester 1:1, parallel core | THIMBLE: PA
+  - **Colour**: H20 HOUSING: Black | WEAK LINK: Red & Black | ROPE SLING: White & black stripes | THIMBLE: Yellow
+  - **Breaking Load**: WEAK LINK: 2,2 ± 0,4 kN | ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-09-07
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 58421/B0 BV
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+
+### HR-0104
+H20 standard SOLAS model (YELLOW)
+
+  - **Approvals**: EC approved
+  - **Product Specification**: French Top Label
+  - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN according to SOLAS regulations
+  - **Release Depth**: 1,5 - 4 m
+  - **Weight**: 0.220kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | WEAK LINK: PA6 & Stainless steel | ROPE SLING: Polyester 1:1, parallel core | THIMBLE: PA
+  - **Colour**: H20 HOUSING: Black | WEAK LINK: Red & Black | ROPE SLING: White & black stripes | THIMBLE: Yellow
+  - **Breaking Load**: WEAK LINK: 2,2 ± 0,4 kN | ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-01-24
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+
+### HR-0105
+H20 HRU - Hydrostatic Release Unit (GREEN)
+
+  - **Product Specification**: Release depth 4 m, complete with rope and weaklink
+  - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN according to SOLAS regulation
+  - **Release Depth**: approx. 4 m
+  - **Weight**: 0.220kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | WEAK LINK: PA6 & Stainless steel | ROPE SLING: Polyester 1:1, parallel core | THIMBLE: PA
+  - **Colour**: H20 HOUSING: Black | WEAK LINK: Red & Black | ROPE SLING: White & black stripes | THIMBLE: Yellow
+  - **Breaking Load**: WEAK LINK: 2,2 ± 0,4 kN | ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+
+### HR-0106
+H20 standard SOLAS model (YELLOW)
+
+  - **Approvals**: EC approved
+  - **Product Specification**: German Top Label
+  - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN according to SOLAS regulations
+  - **Release Depth**: 1,5 - 4 m
+  - **Weight**: 0.220kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | WEAK LINK: PA6 & Stainless steel | ROPE SLING: Polyester 1:1, parallel core | THIMBLE: PA
+  - **Colour**: H20 HOUSING: Black | WEAK LINK: Red & Black | ROPE SLING: White & black stripes | THIMBLE: Yellow
+  - **Breaking Load**: WEAK LINK: 2,2 ± 0,4 kN | ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-01-24
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+
+### HR-0107
+H20 standard SOLAS model (YELLOW)
+
+  - **Approvals**: EC approved
+  - **Product Specification**: Spainish Top Label
+  - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN according to SOLAS regulations
+  - **Release Depth**: 1,5 - 4 m
+  - **Weight**: 0.220kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | WEAK LINK: PA6 & Stainless steel | ROPE SLING: Polyester 1:1, parallel core | THIMBLE: PA
+  - **Colour**: H20 HOUSING: Black | WEAK LINK: Red & Black | ROPE SLING: White & black stripes | THIMBLE: Yellow
+  - **Breaking Load**: WEAK LINK: 2,2 ± 0,4 kN | ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+
+### HR-0108
+H20 HRU - Hydrostatic Release Unit (BLUE)
+
+  - **Approvals**: NATO approved
+  - **Product Specification**: Release depth 6 m, complete with rope and weak link
+  - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN according to SOLAS regulation
+  - **Release Depth**: approx. 6 m
+  - **Weight**: 0.220kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | WEAK LINK: PA6 & Stainless steel | ROPE SLING: Polyester 1:1, parallel core | THIMBLE: PA
+  - **Colour**: H20 HOUSING: Black | WEAK LINK: Red & Black | ROPE SLING: White & black stripes | THIMBLE: Yellow
+  - **Breaking Load**: WEAK LINK: 2,2 ± 0,4 kN | ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+
+### HR-0113
+Weak Link complete
+
+  - **Product Specification**: Cord type
+  - **Breaking Strength**: 2,2 +/- 0,4 kN
+  - **Weight**: 0.01kg
+  - **Breaking Load**: 2,2 +/- 0,4 kN
+
+### HR-0114
+White braided polyester line, 8mm diameter
+
+  - **Product Specification**: Supplied by metre
+  - **Breaking Strength**: minimum 15 kN
+  - **Weight**: 0.05kg
+  - **Breaking Load**: minimum 15 kN
+
+### HR-0115
+Red braided Polyester Line
+
+  - **Product Specification**: Supplied on reel
+  - **Dimensions**: 4,5mm diameter
+  - **Weight**: 0.015kg
+
+### HR-0116
+H20 HRU - Hydrostatic Release Unit (BLUE)
+
+  - **Product Specification**: Plain without rope sling and weak link, release depth 6 m
+  - **Release Depth**: approx. 6 m
+  - **Weight**: 0.12kg
+
+### HR-0117
+Weak Link with Stainless Steel ring
+
+  - **Product Specification**: Cord type
+  - **Weight**: 0.06kg
+
+### HR-0118
+H20 HRU - Hydrostatic Release Unit (GREEN)
+
+  - **Product Specification**: Plain without rope sling and weak link, release depth 4 m
+  - **Release Depth**: approx. 4 m
+  - **Weight**: 0.12kg
+
+### HR-0119
+H20 with extra long rope sling (YELLOW)
+
+  - **Product Specification**: No weak link
+  - **Breaking Strength**: approx. 30 kN
+  - **Weight**: 0.175kg
+  - **Breaking Load**: approx. 30 kN
+  - **Approved Standards**: SOLAS 74 Convention as amended, Regulations III/4, X/3, III/13, III/26 and III/34 | IMO Res. MSC.48(66)-(LSA Code)-amended by MSC.207(81), MSC.218(82), MSC.272(85), MSC.293(87), MSC.320(89), MSC.368(93), MSC.425(98), MSC.459(101) and MSC.485(103) I, IV
+  - **Certificate Valid Until**: 2029-11-20
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+
+### HR-0126
+H20 HRU - Hydrostatic Release Unit (GREEN)
+
+  - **Product Specification**: No weak link, 4 mts release depth
+  - **Release Depth**: 4 m
+  - **Weight**: 0.233kg
+
+### HR-0130
+H20 HRU - Hydrostatic Release Unit (YELLOW)
+
+  - **Approvals**: EC, USCG, UK
+  - **Product Specification**: For Raft/MES installations, no rope or weak link
+  - **Weight**: 0.12kg
+  - **Approved Standards**: SOLAS 74 Convention as amended, Regulations III/4, X/3, III/13, III/26 and III/34 | IMO Res. MSC.48(66)-(LSA Code)-amended by MSC.207(81), MSC.218(82), MSC.272(85), MSC.293(87), MSC.320(89), MSC.368(93), MSC.425(98), MSC.459(101) and MSC.485(103) I, IV
+  - **Certificate Valid Until**: 2029-11-20
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+
+### HR-0150
+H20 HRU - Hydrostatic Release Unit (YELLOW)
+
+  - **Approvals**: EC
+  - **Product Specification**: Fixed sling, for raft/MES
+  - **Breaking Strength**: White Rope Sling: 15kN. Weak Link 2,2 (+/- 0,4) kN Acording to SOLAS Regulation
+  - **Release Depth**: 1,5-4m
+  - **Breaking Load**: White Rope Sling: 15kN. Weak Link 2,2 (+/- 0,4) kN Acording to SOLAS Regulation
+  - **Approved Standards**: SOLAS 74 Convention as amended, Regulations III/4, X/3, III/13, III/26 and III/34 | IMO Res. MSC.48(66)-(LSA Code)-amended by MSC.207(81), MSC.218(82), MSC.272(85), MSC.293(87), MSC.320(89), MSC.368(93), MSC.425(98), MSC.459(101) and MSC.485(103) I, IV
+  - **Certificate Valid Until**: 2029-11-20
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+
+### HR-0160
+H20 HRU - Hydrostatic Release Unit (YELLOW)
+
+  - **Approvals**: EC approved
+  - **Product Specification**: For Polar Box
+  - **Breaking Strength**: 15kN
+  - **Release Depth**: 1,5 - 4,0m
+  - **Weight**: 0.18kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | WEAK LINK: PA6 & Stainless steel | ROPE SLING: Polyester 1:1, parallel core | THIMBLE: PA
+  - **Colour**: H20 HOUSING: Black | WEAK LINK: Red & Black | ROPE SLING: White & black stripes | THIMBLE: Yellow
+  - **Breaking Load**: WEAK LINK: 2,2 ± 0,4 kN | ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-11-20
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+
+### HR-0190
+WeakLink system
+
+  - **Breaking Strength**: 2,2 +-0,4kN
+  - **Weight**: 0,023kg
+  - **Breaking Load**: 2,2 +-0,4kN
 
 ### [HR-0200](https://www.cmhammar.com/catalogue/hr-0200/)
 H20 Small Raft Model (DARK GREEN)
@@ -632,16 +2163,178 @@ H20 Small Raft Model (DARK GREEN)
   - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link 1,2 +/- 0,4 kN
   - **Release Depth**: 1,5 - 4 m
   - **Weight**: 0.28kg
+  - **Activation Depth**: 1.5 - 4.0 metres
+  - **Service Life**: 2 years
+  - **Operating Temperature**: -30 to +65°C
+  - **Breaking Load**: strong rope: minimum 15 kN, weak link: 2.2 ± 0.4 kN
+  - **Approved Standards**: SOLAS 74 Convention | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-06-12
   Certifications:
-    - CM Hammar AB – Recognition for BV mode II scheme – Bureau Veritas
-    - H20 Small Raft – USCG – US – 160.062/14/0
-    - H20 Small Raft – Type Approval – Bureau Veritas – 18550/D0
+    - CM Hammar AB  – Recognition for BV mode II scheme – Bureau Veritas – SMS.W.II./6337/E.0
+    - H20 Small Raft – Type Approval – Bureau Veritas – 18550/D0 – 18550/D0
+
+### HR-0214
+White braided polyester line,  8mm
+
+  - **Product Specification**: Supplied on reel
+  - **Breaking Strength**: 15kN
+  - **Weight**: 0.05kg
+  - **Breaking Load**: 15kN
+
+### HR-0300
+H20 RX SOLAS model (YELLOW)
+
+  - **Approvals**: EC approved
+  - **Product Specification**: Extended life 30 month, EC approved
+  - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN according to SOLAS regulations
+  - **Release Depth**: 1,5-4m
+  - **Weight**: 0.3kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | WEAK LINK: PA6 & Stainless steel | ROPE SLING: Polyester 1:1, parallel core | THIMBLE: PA
+  - **Colour**: H20 HOUSING: Black | WEAK LINK: Red & Black | ROPE SLING: White & black stripes | THIMBLE: Yellow
+  - **Breaking Load**: WEAK LINK: 2,2 ± 0,4 kN | ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-11-20
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+
+### HR-0302
+H20 RX SOLAS model (YELLOW)
+
+  - **Approvals**: USCG/EC approved
+  - **Product Specification**: Extended life 30 month, USCG/EC approved
+  - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN according to SOLAS regulations
+  - **Release Depth**: 1.5-4m
+  - **Weight**: 0.283kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | WEAK LINK: PA6 & Stainless steel | ROPE SLING: Polyester 1:1, parallel core | THIMBLE: PA
+  - **Colour**: H20 HOUSING: Black | WEAK LINK: Red & Black | ROPE SLING: White & black stripes | THIMBLE: Yellow
+  - **Breaking Load**: WEAK LINK: 2,2 ± 0,4 kN | ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-11-20
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+
+### HR-0303
+H20 RX SOLAS model (YELLOW)
+
+  - **Approvals**: Transport Canada / EC approved
+  - **Product Specification**: Extended life 30 month, TC / EC approved
+  - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN according to SOLAS regulations
+  - **Release Depth**: 1.5-4m
+  - **Weight**: 0.283kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | WEAK LINK: PA6 & Stainless steel | ROPE SLING: Polyester 1:1, parallel core | THIMBLE: PA
+  - **Colour**: H20 HOUSING: Black | WEAK LINK: Red & Black | ROPE SLING: White & black stripes | THIMBLE: Yellow
+  - **Breaking Load**: WEAK LINK: 2,2 ± 0,4 kN | ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-09-07
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 58421/B0 BV
+
+### HR-0308
+H20 Marker Buoy
+
+  - **Product Specification**: 30 m line, release depth 6m
+  - **Release Depth**: approx. 6 m
+  - **Weight**: 1.2kg
+
+### HR-0309
+Replacement kit, H20 Marker Buoy
+
+  - **Weight**: 0.15kg
+
+### HR-0318
+H20RX Marker Buoy (BLUE)
+
+  - **Product Specification**: Extended Life 30 month, 30m line, 6m Release Depth
+  - **Release Depth**: 6m
+
+### HR-0325
+H20 RX HRU (YELLOW)
+
+  - **Approvals**: EC, USCG, UK
+  - **Product Specification**: w rope sling, no Weak Link, 153mm Sling
+  - **Breaking Strength**: 15kN
+  - **Release Depth**: 1,5-4 m
+  - **Weight**: 0,28kg
+  - **Breaking Load**: 15kN
+
+### HR-0328
+H20 RX HRU (BLUE)
+
+  - **Product Specification**: w rope sling, no WeakLink, sling153mm
+  - **Breaking Strength**: 15kN
+  - **Release Depth**: 6m
+  - **Breaking Load**: 15kN
+
+### HR-0360
+H20 Replacement kit for Polar Box
+
+  - **Approvals**: EC approved
+  - **Weight**: 0.32kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | WEAK LINK: PA6 & Stainless steel | ROPE SLING: Polyester 1:1, parallel core | THIMBLE: PA
+  - **Colour**: H20 HOUSING: Black | WEAK LINK: Red & Black | ROPE SLING: White & black stripes | THIMBLE: Yellow
+  - **Breaking Load**: WEAK LINK: 2,2 ± 0,4 kN | ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-11-20
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
+
+### HR-0361
+H20 RX HRU (YELLOW)
+
+  - **Approvals**: EC / USCG
+  - **Product Specification**: For Polar Box
+  - **Breaking Strength**: White rope sling: minimum 15 kN, Weak link: 2,2 +/- 0,4 kN according to SOLAS regulations
+  - **Release Depth**: 1.5-4m
+  - **Weight**: 0.18kg
+  - **Activation Depth**: 1,5 - 4,0 meters (SOLAS)
+  - **Service Life**: The operational life on board the ship is 2 years (24 months) or otherwise stated on the product when installed.
+  - **Operating Temperature**: -30 to +65oC
+  - **Material**: H20 HOUSING: Housing: Polyamid (PA6)
+Spring: Stainless steel
+Knife: Stainless steel | WEAK LINK: PA6 & Stainless steel | ROPE SLING: Polyester 1:1, parallel core | THIMBLE: PA
+  - **Colour**: H20 HOUSING: Black | WEAK LINK: Red & Black | ROPE SLING: White & black stripes | THIMBLE: Yellow
+  - **Breaking Load**: WEAK LINK: 2,2 ± 0,4 kN | ROPE SLING: Min; 15 kN
+  - **Weak Link Strength**: Breaking strenght: 2,2 ± 0,4 kN
+  - **Approved Standards**: SOLAS 74 Convention | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+  - **Certificate Valid Until**: 2029-11-20
+  Certifications:
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 73672/B0 UK
+    - H20 R HRU / ERU / EBV – H20 RX HRU / ERU / EBV – H20 RL HRU / ERU / EB – 07493/G0
 
 ### [HR-0500](https://www.cmhammar.com/catalogue/hr-0500/)
 Easy Release
 
   - **Product Specification**: Manual Release Hook, stainless steel, max working load 15 kN
   - **Weight**: 0.2kg
+  - **Material**: Manual Release Hook, stainless steel, max working load 15 kN
+  - **Breaking Load**: Manual Release Hook, stainless steel, max working load 15 kN
 
 ### [HR-0501](https://www.cmhammar.com/catalogue/hr-0501/)
 Safety Pin
@@ -649,9 +2342,411 @@ Safety Pin
   - **Product Specification**: to Easy Release and LIfeBuoy Release System
   - **Weight**: 0.025kg
 
+### HT-0012-2
+Laminated Instruction MRRS
+
+  - **Product Specification**: Self-adhesive
+  - **Weight**: 0.022kg
+
+### HT-0018
+Raft Label
+
+  - **Product Specification**: Instruction label for Liferaft Container
+  - **Dimensions**: 150 x 150 mm
+
+### HT-0019
+H20 Manual
+
+  - **Product Specification**: Multilingual
+  - **Weight**: 0.035kg
+  - **Activation Depth**: 1.5 - 4.0 metres
+  - **Service Life**: 2 years
+  - **Operating Temperature**: -30 to +65°C
+  - **Breaking Load**: strong rope: minimum 15 kN, weak link: 2.2 ± 0.4 kN
+  - **Approved Standards**: SOLAS 74 Convention | IMO Res. MSC 97(73)8.1/8.6 (2000 HSC Code) | IMO Res. MSC. 48(66)
+
+### HT-0022
+H20 Poster 70x100
+
+  - **Weight**: 0.4kg
+
+### HT-0025
+H20 Carton
+
+  - **Weight**: 0.06kg
+
+### HT-0036
+Table Stand for H20
+
+  - **Dimensions**: 26x18x14 cm
+
+### IA-0400
+Manual/Automatic Cap A1
+
+  - **Product Specification**: Standard handle
+  - **Weight**: 0.052kg
+  - **Service Life**: To be replaced after the fi ve-year expiry date marked on the top label or when the indicator is red. PULL TAB AND CORD Available with : • Standard Pull Tab (171,30mm) • Short Loop
+  - **Material**: OPERATING CAP: Cap: P.B.T.
+Spring: Stainless steel
+  - **Colour**: OPERATING CAP: Yellow
+  - **Approved Standards**: • IMO/SOLAS (A 689/17) standard as detailed in M.S.A. (U.K.)
+
+### IA-0401
+Rearming kit, Manual/Automatic Cap A1
+
+  - **Product Specification**: Standard handle, excl. C02 cylinder
+  - **Weight**: 0.084kg
+  - **Service Life**: To be replaced after the fi ve-year expiry date marked on the top label or when the indicator is red. PULL TAB AND CORD Available with : • Standard Pull Tab (171,30mm) • Short Loop
+  - **Material**: OPERATING CAP: Cap: P.B.T.
+Spring: Stainless steel
+  - **Colour**: OPERATING CAP: Yellow
+  - **Approved Standards**: • IMO/SOLAS (A 689/17) standard as detailed in M.S.A. (U.K.)
+
+### IA-0401-33
+Rearming kit complete, Manual/Automatic Cap A1
+
+  - **Product Specification**: Standard handle, 33gr cylinder
+  - **Service Life**: To be replaced after the fi ve-year expiry date marked on the top label or when the indicator is red. PULL TAB AND CORD Available with : • Standard Pull Tab (171,30mm) • Short Loop
+  - **Material**: OPERATING CAP: Cap: P.B.T.
+Spring: Stainless steel
+  - **Colour**: OPERATING CAP: Yellow
+  - **Approved Standards**: • IMO/SOLAS (A 689/17) standard as detailed in M.S.A. (U.K.)
+
+### IA-0401-60
+Rearming kit complete, Manual/Automatic Cap A1
+
+  - **Product Specification**: Standard handle, 60gr cylinder
+  - **Service Life**: To be replaced after the fi ve-year expiry date marked on the top label or when the indicator is red. PULL TAB AND CORD Available with : • Standard Pull Tab (171,30mm) • Short Loop
+  - **Material**: OPERATING CAP: Cap: P.B.T.
+Spring: Stainless steel
+  - **Colour**: OPERATING CAP: Yellow
+  - **Approved Standards**: • IMO/SOLAS (A 689/17) standard as detailed in M.S.A. (U.K.)
+
+### IA-0410
+Manual/Automatic Cap A1
+
+  - **Product Specification**: Short loop tab
+  - **Weight**: 0.047kg
+  - **Service Life**: To be replaced after the fi ve-year expiry date marked on the top label or when the indicator is red. PULL TAB AND CORD Available with : • Standard Pull Tab (171,30mm) • Short Loop
+  - **Material**: OPERATING CAP: Cap: P.B.T.
+Spring: Stainless steel
+  - **Colour**: OPERATING CAP: Yellow
+  - **Approved Standards**: • IMO/SOLAS (A 689/17) standard as detailed in M.S.A. (U.K.)
+
+### IA-0600
+Manual/Automatic Cap MA1 EC
+
+  - **Product Specification**: Cord lenght 94 mm
+  - **Weight**: 0.051kg
+  - **Service Life**: To be replaced after the fi ve-year expiry date marked on the top label or when the single point indicator is red. PULL TAB AND CORD Available with different lenghts
+  - **Approved Standards**: • IMO/SOLAS (A 689/17) standard as detailed in M.S.A. | • ISO 12402 - MA1 EC
+
+### IA-0601-33
+Rearming kit complete, Manual/Automatic Cap MA1 EC
+
+  - **Product Specification**: Cord lenght 125 mm, 33gr cylinder
+
+### IA-0601-38
+Rearming kit complete, Manual/Automatic Cap MA1 EC
+
+  - **Product Specification**: Cord lenght 125 mm, 38gr cylinder
+  - **Transport**: Dangerous Goods - extra cost for transportation will be added
+
+### IA-0601-60
+Rearming Kit complete Manual/Automatic Cap MA1 EC
+
+  - **Product Specification**: Cord lenght 125mm, 60gr cylinder
+  - **Transport**: Dangerous Goods - extra cost for transportation will be added
+
+### IA-0602
+Manual/Automatic Cap MA1 EC
+
+  - **Product Specification**: Cord lenght 125mm,  Re-Arming Kit, excl. Body/C02 cylinder
+  - **Weight**: 0.084kg
+
+### IA-0603
+Manual/Automatic Cap MA1 EC
+
+  - **Approvals**: EC / ISO
+  - **Product Specification**: Cord lenght 165mm, Re-Arming Kit, excl. Body/CO2-cylinder
+  - **Weight**: 0.084kg
+
+### IA-0605
+Manual/Automatic Cap MA1 EC
+
+  - **Product Specification**: Cord length 125 mm
+  - **Weight**: 0.051kg
+
+### IA-0606
+Manual/Automatic Cap MA1 EC
+
+  - **Product Specification**: Cord lenght 165 mm
+
+### IA-0608
+Manual/Automatic Cap MA1 EC
+
+  - **Product Specification**: Cord length 300 mm, black cord without handle
+  - **Weight**: 0.051kg
+
+### IA-0609
+Manual/Automatic Cap MA1 EC
+
+  - **Product Specification**: Cord length 200 mm, black cord without handle
+  - **Weight**: 0.042kg
+
+### IA-0610
+Manual/Automatic Cap MA1 EC
+
+  - **Product Specification**: Cord length 240 mm
+  - **Weight**: 0.051kg
+
+### IA-0612
+Manual/Automatic Cap MA1 EC
+
+  - **Product Specification**: Cord length 370mm, black cord without handle
+  - **Weight**: 0.042kg
+
+### IA-0800
+Manual Conversion Cap
+
+  - **Product Specification**: For A1 and MA1 Cap
+  - **Weight**: 0.008kg
+
+### IA-0900
+Rubber Bumper for MA1
+
+  - **Product Specification**: Protection for MA1 in heavy duty
+  - **Weight**: 0.014kg
+
+### IB-0400
+Manual/Automatic Body A1/M1
+
+  - **Product Specification**: Standard model
+  - **Weight**: 0.02kg
+
+### IB-0600
+Manual/Automatic Body MA1 EC
+
+  - **Product Specification**: EC model
+  - **Weight**: 0.025kg
+
+### IB-0600-33
+Manual/Automatic Body MA1 EC
+
+  - **Product Specification**: with 33 gr CO2 cylinder
+
+### IB-0600-38
+Manual/Automatic Body MA1 EC
+
+  - **Product Specification**: with 38 gr CO2 cylinder
+  - **Transport**: Dangerous Goods - extra cost for transportation will be added
+
+### IB-0600-60
+Manual/Automatic Body MA1 EC
+
+  - **Product Specification**: with 60 gr CO2 cylinder
+  - **Transport**: Dangerous Goods - extra cost for transportation will be added
+
+### IC-0100-IC38
+COR Cylinder Assembly
+
+  - **Product Specification**: 38gr CO2-Cylinder
+  - **Transport**: Dangerous Goods - extra cost for transportation will be added
+
+### IM-0400
+Manual Inflator Cap M1
+
+  - **Product Specification**: Standard handle
+  - **Weight**: 0.025kg
+
+### IM-0401
+Rearming kit, Manual Inflator Cap M1
+
+  - **Product Specification**: Standard handle, excl. C02 cylinder
+  - **Weight**: 0.06kg
+
+### IM-0409
+Manual Inflator Cap M1
+
+  - **Product Specification**: Short loop tab,  for training
+  - **Weight**: 0.02kg
+
+### IM-6125
+Manual Inflator Cap M2 EC
+
+  - **Product Specification**: 125mm with handle
+
+### IM-6145
+Manual Inflator Cap M2 EC
+
+  - **Product Specification**: 145mm no handle
+
+### IM-6345
+Manual Inflator Cap M2 EC
+
+  - **Product Specification**: 345mm no handle
+
+### IT-0001
+Sealing Ring
+
+  - **Weight**: 0.005kg
+
+### IT-0002
+Inflator Opening Key
+
+  - **Product Specification**: Stainless steel
+  - **Weight**: 0.004kg
+  - **Material**: Stainless steel
+
+### IT-0003
+Inflator Product Information, A1/M1 model
+
+  - **Product Specification**: Multi-lingual
+  - **Weight**: 0.022kg
+
+### IT-0004
+Inflator Rearming Instruction, A1/M1 model
+
+  - **Product Specification**: Multi-lingual
+  - **Weight**: 0.027kg
+
+### IT-0005
+Hang Tag, self adhesive
+
+  - **Weight**: 0.001kg
+
+### IT-0009
+Service Key
+
+  - **Product Specification**: Stainless steel
+  - **Weight**: 0.03kg
+  - **Material**: Stainless steel
+
+### IT-0010
+Welding tool
+
+  - **Weight**: 0.17kg
+
+### IT-0012
+33 gr CO2 Cylinder
+
+  - **Product Specification**: 1/2" UNF, zinc-plated
+  - **Weight**: 0.147kg
+
+### IT-0013
+38 gr CO2-cylinder
+
+  - **Product Specification**: 1/2" UNF, zinc-plated
+  - **Transport**: Dangerous Goods - extra cost for transportation will be added
+  - **Weight**: 0.155kg
+
+### IT-0014
+60 gr CO2-cylinder
+
+  - **Product Specification**: 1/2" UNF, zinc-plated
+  - **Transport**: Dangerous Goods - extra cost for transportation will be added
+  - **Weight**: 0.2415kg
+
+### IT-0017
+Cylinder Bracket
+
+  - **Weight**: 0.21kg
+
+### IT-0018
+Cylinder Adaptor Tool
+
+  - **Weight**: 0.1kg
+
+### IT-0027
+Loctite cylinder seal
+
+  - **Product Specification**: Epoxi 3421 including one mixing tube
+  - **Transport**: Dangerous Goods - extra cost for transportation will be added
+  - **Weight**: 0.075kg
+
+### IT-0028
+Loctite Automix-Mixing tube
+
+  - **Weight**: 0.005kg
+
+### IT-0029
+Loctite Teromix Gluegun
+
+  - **Weight**: 0.24kg
+
+### IT-0030
+Glue Gun Holder
+
+  - **Weight**: 1.5kg
+
+### IT-0034
+Inflator Product Information booklet MA1 model
+
+  - **Product Specification**: Multi-lingual
+  - **Weight**: 0.017kg
+
+### IT-0035
+Inflator Rearming Instruction booklet MA1 model
+
+  - **Product Specification**: Multi-lingual
+  - **Weight**: 0.021kg
+
+### IT-0036
+Cylinder label
+
+  - **Product Specification**: For PFD manufacturer MA1 EC
+  - **Weight**: 0.002kg
+
 ### [TR-0001](https://www.cmhammar.com/catalogue/tr-0001/)
 Senhouse Sliphook
 
   - **Product Specification**: Stainless steel, 195 mm long
   - **Breaking Strength**: 17 kN +/-10%
   - **Weight**: 0.2kg
+  - **Material**: Stainless steel, 195 mm long
+  - **Breaking Load**: 17 kN +/-10%
+
+### TR-0003
+Nylon thimble
+
+  - **Product Specification**: 12mm white
+  - **Weight**: 0.01kg
+
+### TR-0004
+Shackle
+
+  - **Product Specification**: Stainless steel, long model, 8mm
+  - **Weight**: 0.092kg
+  - **Material**: Stainless steel, long model, 8mm
+
+### TR-0010
+Stainless steel ring, SWL 1T
+
+  - **Product Specification**: 10mm, ID 60mm, AISI 316
+  - **Weight**: 0.132kg
+
+### TR-0011
+Stainless steel ring
+
+  - **Product Specification**: 6mm, ID 50mm, AISI 316
+  - **Weight**: 0.05kg
+
+### TR-0017
+Splicing Connector
+
+  - **Product Specification**: For cable connection
+  - **Dimensions**: 18.2x8.3x13mm
+
+### TR-0018
+Splite Plate
+
+  - **Product Specification**: for Dual Assembly
+  - **Breaking Strength**: 15kN
+  - **Breaking Load**: 15kN
+
+### TR-0040
+Pipe Clamp, 3.2mm
+
+  - **Product Specification**: For Stainless Steal Tubing
+  - **Dimensions**: L: 22mm W:12mm H: 12,6mm Ø: 6.4mm
+  - **Weight**: 0,01kg
