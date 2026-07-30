@@ -49,7 +49,47 @@ def _shorten_cert_type(ct: str) -> str:
     return ct
 
 
-def build_cert_table(product: dict) -> str:
+def _parse_html_cert_links(html: str) -> list:
+    """Extract cert rows from approval link texts already in the page HTML."""
+    rows = []
+    approvals_m = re.search(
+        r'<h3[^>]*>Approvals</h3>(.*?)(?=<section|<div\s+class="product_meta"|<h3[^>]*>Related)',
+        html, re.DOTALL | re.IGNORECASE,
+    )
+    if not approvals_m:
+        return rows
+    links = re.findall(r'class="artno"[^>]*>\s*([^<]+?)\s*</a', approvals_m.group(1))
+    seen = set()
+    for text in links:
+        text = re.sub(r'\s+', ' ', text).strip()
+        if not text or text.startswith('http'):
+            continue
+        parts = [p.strip() for p in re.split(r'\s*[–—]\s*', text) if p.strip()]
+        cert_no = parts[-1] if parts and re.search(r'[\d/]', parts[-1]) else ""
+        if not cert_no or cert_no in seen:
+            continue
+        seen.add(cert_no)
+        issuer = ""
+        if "Bureau Veritas" in text:   issuer = "Bureau Veritas"
+        elif "MCA" in text or "RedEnsign" in text: issuer = "MCA / Bureau Veritas"
+        elif "CCS" in text or "CSS China" in text: issuer = "China Classification Society"
+        elif "USCG" in text:           issuer = "USCG"
+        cert_type = ""
+        if "Module B" in text:         cert_type = "Module B"
+        elif "Type Approval" in text:  cert_type = "Type Approval"
+        elif "Acceptance" in text:     cert_type = "Letter of Acceptance"
+        stds = []
+        if "SOLAS" in text:            stds.append("SOLAS")
+        if "MED" in text or "EC/" in text: stds.append("MED")
+        if "MCA" in text or "RedEnsign" in text: stds.append("MCA")
+        if "USCG" in text:             stds.append("USCG")
+        if "CCS" in text or "CSS" in text: stds.append("CCS")
+        stds = list(dict.fromkeys(stds))
+        rows.append((cert_no, issuer, cert_type, " · ".join(stds), ""))
+    return rows
+
+
+def build_cert_table(product: dict, html: str = "") -> str:
     """Return HTML for the inline cert details table, or '' if no structured certs."""
     all_items = (product.get("approvals") or []) + (product.get("downloads") or [])
     CERT_TYPES = ("approval_certificate", "approval", "certificate")
@@ -67,33 +107,44 @@ def build_cert_table(product: dict) -> str:
         valid     = (s.get("valid_until") or "").strip()
 
         if not cert_no and not issuer:
-            # Try key_fields for CCS-style certs
-            kf = s.get("key_fields") or {}
+            kf      = s.get("key_fields") or {}
             cert_no = kf.get("Certificate No.", kf.get("certificate_number", "")).strip()
-            # Extract issuing body from summary "issued by X" pattern
             summary = s.get("summary") or ""
-            body_m = re.search(r'issued by ([A-Z][^\.]{3,50}?)(?:\s+for|\s+to|\.|$)', summary, re.I)
-            if body_m:
-                issuer = body_m.group(1).strip()
-            else:
-                issuer = ""
-            # Fall back to item name keyword
+            body_m  = re.search(r'issued by ([A-Z][^\.]{3,50}?)(?:\s+for|\s+to|\.|$)', summary, re.I)
+            issuer  = body_m.group(1).strip() if body_m else ""
             if not issuer:
                 item_name = item.get("name", "")
                 if "CSS China" in item_name or "CCS" in item_name:
                     issuer = "China Classification Society"
-            # Extract standards from summary/name
             if not standards:
                 standards = _extract_standards({"regulations": [summary, item.get("name", "")]})
-
-
+        if not cert_no:
+            # Last resort: extract from item name (e.g. "… – USCG LOA – US -16714/160.062")
+            name_parts = [p.strip() for p in re.split(r'\s*[–—]\s*', item.get("name", ""))]
+            last = name_parts[-1] if name_parts else ""
+            if re.search(r'[\d/]', last) and len(last) > 3:
+                cert_no = last
+            if not issuer:
+                nm = item.get("name", "")
+                if "USCG" in nm:           issuer = "USCG"
+                elif "Bureau Veritas" in nm: issuer = "Bureau Veritas"
+                elif "MCA" in nm:           issuer = "MCA"
+            if not cert_type:
+                nm = item.get("name", "")
+                if "Acceptance" in nm: cert_type = "Letter of Acceptance"
+                elif "Module B" in nm: cert_type = "Module B"
+            if not standards:
+                standards = _extract_standards({"regulations": [item.get("name", "")]})
         if not cert_no:
             continue
         if cert_no in seen_cert_nos:
             continue
         seen_cert_nos.add(cert_no)
-
         rows.append((cert_no, issuer, cert_type, standards, valid))
+
+    # Fallback: parse cert numbers from existing HTML approval link texts
+    if not rows and html:
+        rows = _parse_html_cert_links(html)
 
     if not rows:
         return ""
@@ -128,7 +179,8 @@ def build_cert_table(product: dict) -> str:
 def get_mechanism_text(product: dict) -> str:
     """Return the best available mechanism/how-it-works description, or ''."""
     all_items = (product.get("downloads") or []) + (product.get("approvals") or [])
-    # Prefer user_manual how_it_works
+
+    # 1. User manual how_it_works
     for item in all_items:
         s = item.get("structured") or {}
         if not isinstance(s, dict): continue
@@ -136,7 +188,8 @@ def get_mechanism_text(product: dict) -> str:
             hiw = (s.get("how_it_works") or "").strip()
             if hiw and len(hiw) > 40:
                 return hiw
-    # Fall back to data_sheet DESCRIPTION sentences
+
+    # 2. Data sheet DESCRIPTION sentences
     for item in all_items:
         s = item.get("structured") or {}
         if not isinstance(s, dict): continue
@@ -151,6 +204,24 @@ def get_mechanism_text(product: dict) -> str:
                 ]
                 if clean:
                     return " ".join(clean[:4])
+
+    # 3. Installation guide — summary then key_fields
+    GUIDE_TYPES = ("installation_guide", "installation_guide / user_manual",
+                   "technical_information")
+    for item in all_items:
+        s = item.get("structured") or {}
+        if not isinstance(s, dict): continue
+        if s.get("document_type") not in GUIDE_TYPES:
+            continue
+        summary = (s.get("summary") or "").strip()
+        if summary and len(summary) > 60:
+            return summary
+        kf = s.get("key_fields") or {}
+        parts = [str(kf[k]).strip() for k in ("construction", "release", "installation")
+                 if k in kf and kf[k]]
+        if parts:
+            return " ".join(parts)
+
     return ""
 
 
@@ -159,30 +230,30 @@ def get_mechanism_text(product: dict) -> str:
 def _patch_certs(html: str, cert_table_html: str) -> str:
     """Append cert details table after the Approvals <ul>. Idempotent."""
     if "cert-details-inline" in html:
-        return html  # already patched
+        return html
     if not cert_table_html:
         return html
 
-    # Find the Approvals section closing </ul>
-    m = re.search(
-        r'(<h3[^>]*>Approvals</h3>.*?</ul>)',
-        html, re.DOTALL | re.IGNORECASE,
-    )
-    if not m:
-        return html
+    # Preferred: after existing Approvals download list
+    m = re.search(r'(<h3[^>]*>Approvals</h3>.*?</ul>)', html, re.DOTALL | re.IGNORECASE)
+    if m:
+        return html[:m.end()] + cert_table_html + html[m.end():]
 
-    insert_at = m.end()
-    return html[:insert_at] + cert_table_html + html[insert_at:]
+    # Fallback: before Related products section
+    m = re.search(r'<h3[^>]*>Related products</h3>', html, re.IGNORECASE)
+    if m:
+        return html[:m.start()] + cert_table_html + "\n" + html[m.start():]
+
+    return html
 
 
 def _patch_mechanism(html: str, mechanism: str) -> str:
-    """Insert How It Works section before <h3>Downloads</h3>. Idempotent."""
+    """Insert How It Works section. Idempotent."""
     if "product-mechanism" in html:
-        return html  # already patched
+        return html
     if not mechanism:
         return html
 
-    # Truncate very long descriptions to ~600 chars at a sentence boundary
     if len(mechanism) > 600:
         cut = mechanism[:600]
         last_dot = cut.rfind(".")
@@ -195,11 +266,23 @@ def _patch_mechanism(html: str, mechanism: str) -> str:
         '</p>'
     )
 
-    m = re.search(r'<h3[^>]*>Downloads</h3>', html, re.IGNORECASE)
-    if not m:
-        return html
+    # Try anchors in preference order
+    for anchor_pat in [
+        r'<h3[^>]*>Downloads</h3>',
+        r'<h3[^>]*>Approvals</h3>',
+        r'<h3[^>]*>Related products</h3>',
+    ]:
+        m = re.search(anchor_pat, html, re.IGNORECASE)
+        if m:
+            return html[:m.start()] + block + "\n" + html[m.start():]
 
-    return html[:m.start()] + block + "\n" + html[m.start():]
+    # Last resort: insert after the spec <ul class="meta-description">...</ul>
+    m = re.search(r'</ul>', html[html.find('meta-description'):])
+    if m:
+        pos = html.find('meta-description') + m.end()
+        return html[:pos] + "\n" + block + html[pos:]
+
+    return html
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
@@ -232,7 +315,7 @@ def main():
         with open(html_path, encoding="utf-8") as f:
             original = f.read()
 
-        cert_table = build_cert_table(product)
+        cert_table = build_cert_table(product, original)
         mechanism  = get_mechanism_text(product)
 
         html = _patch_certs(original, cert_table)
